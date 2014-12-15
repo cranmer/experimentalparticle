@@ -78,7 +78,7 @@ Peter Nemethy</a>,  Professor
 <h2>Research Scientists and Research Associates</h2>
 
 <div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/Bernius.jpg" /></div>
+  <div class="col-md-4"><img width="100%" src="./images/catrin-smaller.jpg" /></div>
   <div class="col-md-8">
 Catrin Bernius, Research Scientist 
 <br />

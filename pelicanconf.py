@@ -3,10 +3,10 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'NYU Experimental Particle Group'
-SITENAME = u'Experimental Particle Physics at NYU'
+SITENAME = u'EPP @ NYU'
 SITEURL = ''
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
 
@@ -21,8 +21,10 @@ DISPLAY_CATEGORIES_ON_MENU=False
 
 BOOTSTRAP_NAVBAR_INVERSE =True
 
-#BANNER='images/banner.png'
-#BANNER_SUBTITLE = 'This is my subtitle'
+BANNER='images/lhc_tunnel.jpg'
+BANNER_TITLE=None
+BANNER_SUBTITLE = None #'Experimental Particle Physics @ NYU'
+BANNER_ALL_PAGES = True
 
 DISPLAY_ARTICLE_INFO_ON_INDEX=False
 DISPLAY_TAGS_ON_SIDEBAR=True
@@ -38,6 +40,7 @@ MENUITEMS = (('People','/group.html'),
 
 # Blogroll
 LINKS =  (('NYU Physics Department','http://physics.as.nyu.edu/page/home'),
+		('About the graduate program','http://physics.as.nyu.edu/page/graduate'),
 		('The ATLAS Experiment','http://atlas.web.cern.ch'), 
 		('Center for Cosmology & Particle Physics','http://cosmo.physics.nyu.edu'),
 		('Center for Data Science','http://cds.nyu.edu'),
@@ -50,6 +53,8 @@ LINKS =  (('NYU Physics Department','http://physics.as.nyu.edu/page/home'),
 # Social widget
 SOCIAL = (('LinkedIn', ''),
           ('Twitter', '#'),)
+SOCIAL = None
+
 #SOCIAL = None
 
 DEFAULT_PAGINATION = False
