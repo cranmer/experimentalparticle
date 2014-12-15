@@ -22,6 +22,7 @@ DISPLAY_CATEGORIES_ON_MENU=False
 BOOTSTRAP_NAVBAR_INVERSE =True
 
 BANNER='images/lhc_tunnel.jpg'
+BANNER='images/atlas-famous-banner.jpeg'
 BANNER_TITLE=None
 BANNER_SUBTITLE = 'Experimental Particle Physics @ NYU'
 BANNER_ALL_PAGES = True
@@ -31,23 +32,22 @@ DISPLAY_TAGS_ON_SIDEBAR=True
 DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
 
 
-
-MENUITEMS = (('People','/group.html'),
-			('Research','/research.html'),
-			('Funding','/funding.html'),
-			('Media & Outreach','/outreach.html'),
-			('Blog','/category/blog.html'),)
+MENUITEMS = (('People','group.html'),
+			('Research','research.html'),
+			('Funding','funding.html'),
+			('Media & Outreach','outreach.html'),
+			('Blog','category/blog.html'),)
 
 # Blogroll
 LINKS =  (('NYU Physics Department','http://physics.as.nyu.edu/page/home'),
 		('About the graduate program','http://physics.as.nyu.edu/page/graduate'),
 		('The ATLAS Experiment','http://atlas.web.cern.ch'), 
-		('Center for Cosmology & Particle Physics','http://cosmo.physics.nyu.edu'),
+		('Center for Cosmology & Particle Physics','http://cosmo.nyu.edu'),
 		('Center for Data Science','http://cds.nyu.edu'),
-		('Overview of our group','/overview.html'),
-		('NYU on Milagro', '/milagro.html'),
-		('NYU on ATLAS','/atlas.html'),
-		('NYU group history', '/history.html'),
+		('Overview of our group','overview.html'),
+		('NYU on Milagro', 'milagro.html'),
+		('NYU on ATLAS','atlas.html'),
+		('NYU group history', 'history.html'),
 		('RECAST','http://recast.perimeterinstitute.ca'),
 		('HiggsHunters', 'http://HiggsHunters.org')
 		)
@@ -63,13 +63,28 @@ DEFAULT_PAGINATION = False
 
 CC_LICENSE="CC-BY"
 
+# Uncomment following line if you want document-relative URLs when developing
+#RELATIVE_URLS = True
+
+
 ####################################################
 # Additions 
+EXTRA_HEADER = open('twitter_card.html').read().decode('utf-8')
+
+
 STATIC_PATHS = ['images', 'images/med', 'downloads', 'downloads/notebooks',
                 'downloads/files','downloads/code', 'favicon.png']
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+CODE_DIR = 'downloads/code'
+NOTEBOOK_DIR = 'downloads/notebooks'
+
+
+PLUGIN_PATH = '../../pelican-plugins/'
+PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
+			'liquid_tags.youtube', 'render_math',
+           'liquid_tags.include_code', 'liquid_tags.notebook',
+           'liquid_tags.literal']
+
 
 THEME = 'pelican-bootstrap3'
 #THEME = 'notmyidea'
@@ -84,3 +99,9 @@ BOOTSTRAP_THEME='simplex'
 BOOTSTRAP_THEME='yeti'
 #BOOTSTRAP_THEME='superhero' #nice but, background doesn't work well with code as is
 #BOOTSTRAP_THEME='cosmo'
+
+TWITTER_CARDS=True
+USE_OPEN_GRAPH=True
+OPEN_GRAPH_IMAGE="http://physics.nyu.edu/~kc90/experimentalparticle_new/images/atlas-famous-card.jpeg"
+
+

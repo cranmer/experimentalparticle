@@ -11,7 +11,7 @@ save_as: group.html
   <div class="col-md-8"><a href="http://physics.as.nyu.edu/object/KyleCranmer.html">Kyle Cranmer</a>,  Associate Professor 
 <br />
   Interests: ATLAS, Higgs searches, statistical methods for particle physics, improved methods for publishing, data preservation, light gauge boson searches, MissingET triggers. <br />
-  Publications: <a href="http://inspirehep.net/search?p=author%3AK.Cranmer.1+">INSPIRE</a> | 
+  Publications: <a href="http://inspirehep.net/search?p=author%3AK.s.Cranmer.1+">INSPIRE</a> | 
 <a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=cranmer&amp;sc=1">CERN</a><br />
 
   Presentations: <a href="http://indicosearch.cern.ch/search?p=cranmer&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a> <br />
@@ -34,7 +34,8 @@ save_as: group.html
   Interests: ATLAS, SUSY / Exotic searches (lepton-jets, new long-lived particles, etc.), Simulation software, Data acquisition. <br />
   Papers: <a href="http://inspirehep.net/search?p=author%3AA.Haas.3">INSPIRE</a><br />
   Presentations: <a href="https://indico.cern.ch/search.py?categId=0&p=haas%2C+andrew&f=&collections=Contributions&startDate=&endDate=&sortField=&sortOrder=d">ATLAS</a>
-
+  <br />
+  <a href="http://twitter.com/AndyColtonHaas"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
 
 </div>
 </div>
@@ -112,9 +113,9 @@ Benjamin Kaplan, Research Scientist
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/rostislav.konoplich.jpg" /></div>
-  <div class="col-md-8"><a href="http://www.manhattan.edu/academics/science/physics/faculty/rostislav.konoplich.shtml">Rostislav Konoplich</a>, Associate Professor of Physics at Manhattan College
+  <div class="col-md-8"><a href="http://www.manhattan.edu/academics/science/physics/faculty/rostislav.konoplich.shtml">Rostislav Konoplich</a>,  Professor of Physics at Manhattan College
 <br />
-  Interests: ATLAS: Supersymmetry searches and measurements;  Elementary particle phenomenology; astrophysics.<br />
+  Interests: ATLAS: Higgs physics, Supersymmetry searches and measurements;  Elementary particle phenomenology; astrophysics.<br />
   Publications: <a href="http://inspirehep.net/search?p=author%3AR.V.Konoplich.1">INSPIRE</a> | 
 <a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=konoplich&amp;sc=1">CERN</a><br />
 
@@ -149,7 +150,9 @@ Christopher Musso </a>, Staff
   <div class="col-md-4"><img width="100%" src="./images/lukas.jpg" /></div>
   <div class="col-md-8">Lukas Heinrich
 <br />
-  Interests: ATLAS, SUSY searches. <br />
+  Interests: ATLAS, SUSY searches, trigger and analysis software <br />
+<br />
+<a href="http://twitter.com/lukasheinrich_"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
   </div>
 </div>
 
@@ -189,6 +192,8 @@ Christopher Musso </a>, Staff
 <br />
 <a href="http://svenkreiss.com/">personal page</a><br />
 Went on to: data scientist at Wild Card
+<br />
+<a href="http://twitter.com/svenkreiss"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
 </div>
 </div>
 
@@ -202,7 +207,10 @@ James Beacham</a>
   Interests: ATLAS: Higgs-related searches, APEX: light gauge boson searches, archival ALEPH analyses
 <br />
 <a href="http://physics.nyu.edu/~jbb334/">personal page</a><br />
-Went on to: post doc 
+Went on to: post doc in ATLAS group at The Ohio State University 
+<br />
+<a href="http://twitter.com/jbbeacham"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
+
   </div>
 </div>
 
@@ -213,6 +221,9 @@ Went on to: post doc
   <div class="col-md-8">Loek Hooft van Huysduynen
 <br />
   Interests: ATLAS, lepton jets, top physics. <br />
+  Went on to: Data Scientist at Tapad
+  <br />
+<a href="https://www.linkedin.com/pub/loek-hooft-van-huysduynen/93/464/57"><i class="fa fa-linkedin-square fa-lg"></i> LinkedIn</a>
   </div>
 </div>
 
@@ -224,7 +235,10 @@ Went on to: post doc
   <div class="col-md-8">George Herbert Lewis
 <br />
   Interests: ATLAS, Higgs searches, top physics. <br />
-Went on to: data scientist at LendUp
+Went on to: data scientist at <a href="http://www.lenduploans.com">LendUp</a>
+<br />
+<a href="http://twitter.com/HerbieLewis"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
+
   </div>
 </div>
 
@@ -236,7 +250,7 @@ Went on to: data scientist at LendUp
 <br />
   Thesis: "Physics from the Very-High Energy Cosmic-Ray Shadows of the Moon and
 Sun with Milagro", Milagro, 2011 <br />
-Went on to: post doc at Boston University
+Went on to: post doc at Brown University
   </div>
 </div>
 
@@ -258,7 +272,7 @@ Went on to: Goldman Sachs special situation group
   <div class="col-md-4"></div>
   <div class="col-md-8">Brian Kolterman
 <br />
-  Thesis: ""Observation of the Large Scale Cosmic-Ray Anisotropy at TeV Energies with the Milagro Detector," 2008. <br />
+  Thesis: "Observation of the Large Scale Cosmic-Ray Anisotropy at TeV Energies with the Milagro Detector," 2008. <br />
   </div>
 </div>
 

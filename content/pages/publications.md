@@ -5,21 +5,50 @@ save_as: publications.html
 Authors: Kyle Cranmer
 Summary: 
 
-<div id="content">
-
-<!--<script src="http://gmodules.com/ig/ifr?url=http://orawiz.googlepages.com/multifeed.xml&amp;up_mfeed=http%3A%2F%2Fpipes.yahoo.com%2Fpipes%2Fpipe.run%3F_id%3DlHPR8dQw3RGeCX8hX0sBXw%26_render%3Drss&amp;up_mcssfile=http%3A%2F%2Forawiz.googlepages.com%2Ff1.css&amp;up_contentsnum=15&amp;up_titlelink=http%3A%2F%2Fgoogleblog.blogspot.com%2F&amp;synd=open&amp;w=420&amp;h=450&amp;title=Recent+Group+Publications&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
-
-<script src="http://pipes.yahoo.com/js/listbadge.js">{"pipe_id":"lHPR8dQw3RGeCX8hX0sBXw","_btype":"list"}</script>
--->
-
-
-<script src="http://pipes.yahoo.com/js/listbadge.js">{"pipe_id":"63917787a2ef3b1f2214d1926bc91698","_btype":"list","pipe_params":{"firstname":"Kyle","searchtype":"FIND ea ","lastname":"Cranmer","firstinitial":"K","truncate":"10"}}</script>
-
-
-<a href="http://www.apple.com/downloads/dashboard/webcams/atlascavernwebcam.html"><img src="http://images.apple.com/downloads/dashboard/webcams/images/atlascavernwebcam_20070618155644.jpg" /></a>
-
-<a href="http://www.last.fm/user/hoonynoo/?chartstyle=myspace02"><img src="http://imagegen.last.fm/myspace02/recenttracks/hoonynoo.gif" border="0" /></a>
-
-
-
+<div>
+<!-- start sw-rss-feed code --> 
+<script type="text/javascript"> 
+<!-- 
+rssfeed_url = new Array(); 
+rssfeed_url[0]="http://inspirehep.net/rss?ln=en&p=author%3AK.s.Cranmer.1";  
+rssfeed_frame_width="600"; 
+rssfeed_frame_height="600"; 
+rssfeed_scroll="on"; 
+rssfeed_scroll_step="6"; 
+rssfeed_scroll_bar="off"; 
+rssfeed_target="_blank"; 
+rssfeed_font_size="12"; 
+rssfeed_font_face=""; 
+rssfeed_border="on"; 
+rssfeed_css_url="http://feed.surfing-waves.com/css/style4.css"; 
+rssfeed_title="on"; 
+rssfeed_title_name=""; 
+rssfeed_title_bgcolor="#3366ff"; 
+rssfeed_title_color="#fff"; 
+rssfeed_title_bgimage="http://"; 
+rssfeed_footer="off"; 
+rssfeed_footer_name="rss feed"; 
+rssfeed_footer_bgcolor="#fff"; 
+rssfeed_footer_color="#333"; 
+rssfeed_footer_bgimage="http://"; 
+rssfeed_item_title_length="50"; 
+rssfeed_item_title_color="#666"; 
+rssfeed_item_bgcolor="#fff"; 
+rssfeed_item_bgimage="http://"; 
+rssfeed_item_border_bottom="on"; 
+rssfeed_item_source_icon="off"; 
+rssfeed_item_date="off"; 
+rssfeed_item_description="on"; 
+rssfeed_item_description_length="120"; 
+rssfeed_item_description_color="#666"; 
+rssfeed_item_description_link_color="#333"; 
+rssfeed_item_description_tag="off"; 
+rssfeed_no_items="0"; 
+rssfeed_cache = "fc98e85a2ded32e142fe5ad8f73e7817"; 
+//--> 
+</script> 
+<script type="text/javascript" src="http://feed.surfing-waves.com/js/rss-feed.js"></script> 
+<!-- The link below helps keep this service FREE, and helps other people find the SW widget. Please be cool and keep it! Thanks. --> 
+<div style="text-align:right; width:600px;"><a href="http://www.surfing-waves.com/feed.htm" target="_blank" style="color:#ccc;font-size:10px">widget @</a> <a href="http://www.surfing-waves.com" target="_blank" style="color:#ccc;font-size:10px">surfing-waves.com</a></div> 
+<!-- end sw-rss-feed code -->
 </div>
