@@ -186,7 +186,9 @@ Christopher Musso </a>, Staff
 <br />
   Interests: ATLAS, Higgs searches, top physics, statistical tools. <br />
 <br />
-<a href="http://svenkreiss.com/">personal page</a></div>
+<a href="http://svenkreiss.com/">personal page</a><br />
+Went on to: data scientist at Wild Card
+</div>
 </div>
 
 - - - 
@@ -198,7 +200,8 @@ James Beacham</a>
 <br />
   Interests: ATLAS: Higgs-related searches, APEX: light gauge boson searches, archival ALEPH analyses
 <br />
-<a href="http://physics.nyu.edu/~jbb334/">personal page</a>
+<a href="http://physics.nyu.edu/~jbb334/">personal page</a><br />
+Went on to: post doc 
   </div>
 </div>
 
@@ -220,6 +223,7 @@ James Beacham</a>
   <div class="col-md-8">George Herbert Lewis
 <br />
   Interests: ATLAS, Higgs searches, top physics. <br />
+Went on to: data scientist at LendUp
   </div>
 </div>
 
@@ -231,7 +235,7 @@ James Beacham</a>
 <br />
   Thesis: "Physics from the Very-High Energy Cosmic-Ray Shadows of the Moon and
 Sun with Milagro", Milagro, 2011 <br />
-went on to: post doc at Boston University
+Went on to: post doc at Boston University
   </div>
 </div>
 
@@ -243,7 +247,7 @@ went on to: post doc at Boston University
 <br />
   Thesis: "A Global Fitting Method to Improve Missing Transverse Energy by Hadronic Energy Scale Correction", ATLAS, 2011
   <br />
-went on to: Goldman Sachs special situation group
+Went on to: Goldman Sachs special situation group
   </div>
 </div>
 
@@ -293,6 +297,7 @@ with Milagro," 2003. <br />
 <a href="https://cdsweb.cern.ch/search?ln=en&p=prokofiev%2C+kirill&f=author&action_search=Search&c=CERN+Document+Server&sf=&so=d&rm=&rg=10&sc=1&of=hb">CERN</a><br />
 
   Presentations: <a href="https://indico.cern.ch/search.py?categId=0&p=kirill+prokofiev&f=&collections=&startDate=&endDate=&sortField=&sortOrder=d">ATLAS</a> <br />
+  Went on to: Research Assistant Professor at Hong Kong University of Science & Technology
   
   </div>
 </div>
@@ -308,6 +313,7 @@ with Milagro," 2003. <br />
 <a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=krasznahorkay&amp;sc=1">CERN</a><br />
 
   Presentations: <a href="http://indicosearch.cern.ch/search?p=krasznahorkay&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a> <br />
+  Went on to: CERN Fellow
   
   </div>
 </div>
@@ -323,19 +329,25 @@ Diego Casadei </a>, Research Scientist
 <a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&p=casadei&f=author&action_search=Search&c=CERN+Document+Server&c=&sf=&so=d&rm=&rg=500&sc=1&of=hb">CERN</a><br />
 
   Presentations: <a href="http://indicosearch.cern.ch/search?p=casadei&f=&action_search=Search&c=&sf=&so=d&rm=&rg=500&sc=1&of=hb">ATLAS</a>
- 
+ Went on to: FHNW, School of Engineering and UCL, Department of Physics and Astronomy
   </div>
 </div>
 
 - - - 
 
 
-<h2>Emeritus Faculty</h2>
-<UL>
-<LI><a href="http://www.physics.nyu.edu/people/sculli.john.html">
-John Sculli</a>
-</UL>
 
+<h2>Emeritus Faculty</h2>
+
+<div class="row">
+  <div class="col-md-4"></div>
+  <div class="col-md-8">John Sculli
+<br />
+  Went on to: retire in style
+  </div>
+</div>
+
+<!--
 <br />
 <hr />
 <h2>Group Photos </h2>
@@ -352,4 +364,4 @@ SRC="./images/atlas/p6030061_tiny.jpg"/></a>
 SRC="./images/atlas/p6030068_tiny.jpg"/></a>
 
 
-
+-->

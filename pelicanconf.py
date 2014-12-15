@@ -40,7 +40,12 @@ MENUITEMS = (('People','/group.html'),
 LINKS =  (('NYU Physics Department','http://physics.as.nyu.edu/page/home'),
 		('The ATLAS Experiment','http://atlas.web.cern.ch'), 
 		('Center for Cosmology & Particle Physics','http://cosmo.physics.nyu.edu'),
-		('Center for Data Science','http://cds.nyu.edu'))
+		('Center for Data Science','http://cds.nyu.edu'),
+		('Overview of our group','/overview.html'),
+		('NYU on Milagro', '/milagro.html'),
+		('NYU on ATLAS','/atlas.html'),
+		('NYU group History', '/history.html'),
+		)
 
 # Social widget
 SOCIAL = (('LinkedIn', ''),
