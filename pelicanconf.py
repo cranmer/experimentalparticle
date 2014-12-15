@@ -23,7 +23,7 @@ BOOTSTRAP_NAVBAR_INVERSE =True
 
 BANNER='images/lhc_tunnel.jpg'
 BANNER_TITLE=None
-BANNER_SUBTITLE = None #'Experimental Particle Physics @ NYU'
+BANNER_SUBTITLE = 'Experimental Particle Physics @ NYU'
 BANNER_ALL_PAGES = True
 
 DISPLAY_ARTICLE_INFO_ON_INDEX=False
@@ -47,7 +47,9 @@ LINKS =  (('NYU Physics Department','http://physics.as.nyu.edu/page/home'),
 		('Overview of our group','/overview.html'),
 		('NYU on Milagro', '/milagro.html'),
 		('NYU on ATLAS','/atlas.html'),
-		('NYU group History', '/history.html'),
+		('NYU group history', '/history.html'),
+		('RECAST','http://recast.perimeterinstitute.ca'),
+		('HiggsHunters', 'http://HiggsHunters.org')
 		)
 
 # Social widget
@@ -58,6 +60,8 @@ SOCIAL = None
 #SOCIAL = None
 
 DEFAULT_PAGINATION = False
+
+CC_LICENSE="CC-BY"
 
 ####################################################
 # Additions 

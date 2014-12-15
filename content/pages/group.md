@@ -7,7 +7,7 @@ save_as: group.html
 <h2>Faculty</h2>
 
 <div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/cranmer-blackboard.jpg" /></div>
+  <div class="col-md-4"><img width="100%" src="./images/cranmer-bw.jpg" /></div>
   <div class="col-md-8"><a href="http://physics.as.nyu.edu/object/KyleCranmer.html">Kyle Cranmer</a>,  Associate Professor 
 <br />
   Interests: ATLAS, Higgs searches, statistical methods for particle physics, improved methods for publishing, data preservation, light gauge boson searches, MissingET triggers. <br />
@@ -20,6 +20,7 @@ save_as: group.html
 <a href="http://orcid.org/0000-0002-5769-7094">ORCID : 0000-0002-5769-7094</a> <br />
 <a href="http://theoryandpractice.org">Personal homepage</a> <br />
 <a href="http://twitter.com/kylecranmer"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
+<a href="http://github.com/cranmer"><i class="fa fa-github-square fa-lg"></i> github</a>
 
 </div>
 </div>
@@ -145,7 +146,7 @@ Christopher Musso </a>, Staff
 
 
 <div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/Lukas.jpg" /></div>
+  <div class="col-md-4"><img width="100%" src="./images/lukas.jpg" /></div>
   <div class="col-md-8">Lukas Heinrich
 <br />
   Interests: ATLAS, SUSY searches. <br />

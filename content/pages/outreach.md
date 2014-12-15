@@ -8,6 +8,17 @@ save_as: outreach.html
 
 <div id="topic">
 
+  <h2>Citizen Science at HiggsHunters.org</h2>
+
+Andy Haas from NYU and Alan Baar from the University of Oxford have released <a href="http://www.higgshunters.org">higgshunters.org</a>, the first particle physics venture on <a href="https://www.zooniverse.org">Zooniverse</a>, and featuring real events from ATLAS.  
+<br />
+
+<iframe src="//player.vimeo.com/video/102828578" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+</div>
+
+<div id="topic">
+
   <h2>Public Talks: TEDx Binghamton</h2>
 
 <p>NYU Professor Kyle Cranmer gave a talk about the discovery of the Higgs boson at a TEDx conference held at Binghamton University on February 24th, 2013.

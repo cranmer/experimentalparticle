@@ -6,8 +6,6 @@ Authors: Kyle Cranmer
 Summary: 
 
 
-<div id="content">
-
 
 <p>
 The Experimental Particle Physics Group at New York University is thriving!  
@@ -25,6 +23,7 @@ were involved in the <a href="history.html#meco">MECO</a> experiment before its 
 
 <br clear="all" />
 
+<!--
 <div id="topic">
   <h2>Nobel Celebrations</h2>
 <a href="http://home.web.cern.ch/about/updates/2013/10/CERN-congratulates-Englert-and-Higgs-on-Nobel-in-physics"><img style="width:300px;" src="images/higgs-and-englert.jpg"/></a>
@@ -40,14 +39,6 @@ Collider&quot;.
 The announcement happened to occur while the annual <a href="http://ruphe.fsac.ac.ma/AtlasWeek2013/index.php">ATLAS Overview Week</a> was being held in Marrakech, Morocco, and NYU Experimental Particle Physics Group members James Beacham and Kirill Prokofiev were in attendance and <a href="images/ATLASWeekMarrakechNobel2013.png">watched the announcement with hundreds of other ATLAS members</a>.  The whole room burst into applause upon hearing the announcement.
 </p>
 
-<!--
-<p>
-The announcement happened to occur while the annual <a href="http://ruphe.fsac.ac.ma/AtlasWeek2013/index.php">ATLAS Overview Week</a> was being held in Marrakech, Morocco, and NYU Experimental Particle Physics Group members James Beacham and Kirill Prokofiev were in attendance and <a href="images/ATLASWeekMarrakechNobel2013.png">watched the announcement with hundreds of other ATLAS members</a>.  The whole room burst into applause upon hearing the announcement.
-</p>
-<p>
-<a href="images/ATLASWeekMarrakechNobel2013.png"><img style="width:300px;" src="images/ATLASWeekMarrakechNobel2013.png" align=center/></a>
-</p>
--->
 <p>
 Back in New York, the rest of the group <a href="http://youtu.be/cxQKXRi_ezA">held a celebration in Meyer Hall</a>.  The mention of ATLAS in the official citation of the Nobel Prize made this a particularly proud moment for the entire collaboration and for our NYU group, since we played several key roles in the discovery.
 </p>
@@ -67,8 +58,6 @@ This is a major milestone not just in particle physics but in the history of sci
 The observation of a new boson is just the first step, however.  Further analyses are underway to examine the properties of this particle to determine whether it is indeed the Standard Model Higgs or something different (and there are intriguing hints that this is the case).
 
 </div>
+-->
 
-<br clear="all" />
 
-
-</div>
