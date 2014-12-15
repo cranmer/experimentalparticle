@@ -8,10 +8,20 @@ Summary:
 <div id="content">
 <h1>NYU participation in ATLAS</h1>
 
-<p>The NYU group became an official member of ATLAS in July of 2006.  We are very active in the collaboration.  Below is a brief description of our major activities.</p>
+<p>The ATLAS experiment at the CERN Large Hqadron Collider (LHC) is a
+collaboration of 3000 physicists from 174 universities and laboratories 
+in 38 countries. The goal of the the experiment is to study the fundamental 
+building blocks of matter by studying high energy collisions of protons and
+nuclei.  For a complete description of ATLAS, see the ATLAS public web page
+<a href="http://atlas.ch/">http://atlas.ch</a>.
+The NYU group became an official member of ATLAS in July of 2006 and we are 
+very active in the collaboration.  Below is a brief description of our major 
+activities.</p>
 
 <br clear="all" />
 
+
+<!--
 <div id="topic">
   <h2>First Beam!</h2>
 <a href="http://atlas.web.cern.ch/Atlas/GROUPS/OPERATIONS/prodSys/atlasoracleadmin/10Sep2008/beam/vp1-atlas-beam.swf"><img style="width:200px;" src="./images/movie_thumb.png"/></a>
@@ -19,6 +29,9 @@ Summary:
 </div>
 
 <br clear="all" />
+
+-->
+
 
 <div id="topic">
   <h2>Higgs Searches</h2>
@@ -44,11 +57,37 @@ S. Asai et al. Eur.Phys.J.C32S2:19-54,2004. </a></li>
   <h2>Triggering</h2>
   <img src="./images/atlas/Trigger_small.png">
   <p>
-The NYU group is working on the Missing Transverse Energy (MET) part of the High Level Trigger (HLT). MET, which measures an imbalance of momentum in the plane transverse to the particle collision, is sensitive to production of particles that don't interact in the detector. It is therefore a vital part of the search for new physics, and is a natural trigger component for us to study given our group's interest in the search for supersymmetry. Some of the possible sources of fake MET include mismeasurement of jet energies in QCD jet events, detector cracks, and beam-halo interactions. As these can be many orders of magnitude more frequent than SUSY events, they put severe constraints on the MET trigger.  Kyle Cranmer and Diego Casadei are the co-coordinators of the ATLAS MET trigger "slice";
-Allen Mincer and Rashid Djilkibaev are active developers of the triger algorithms; and Allen Mincer, Peter Nemethy and Long Zhao are active in validation of the trigger algorithms and understanding the trigger performance. </p>
+The NYU group is working on various aspects of the ATLAS trigger, which selects 
+about 1 in a million proton proton interactions for furrther study. 
+
+The Missing Transverse Energy (MET) part of the High Level Trigger (HLT). MET, 
+which measures an imbalance of momentum in the plane transverse to the particle 
+collision, is sensitive to production of particles that don't interact in the 
+detector. It is therefore a vital part of the search for new physics, and is a 
+natural trigger component for us to study given our group's interest in the 
+search for supersymmetry. Some of the possible sources of fake MET, such as 
+mismeasurement of jet energies in QCD jet events, can be many orders of magnitude 
+more frequent than SUSY events, thus putting severe constraints on the MET trigger.
+Several members of our group have held leadership positions on MET, and most 
+members of our group have contributed to the trigger in general and/or the MET 
+trigger. 
+
+Some representative trigger-related publications include:
 <ul>
- <li><a href="https://twiki.cern.ch/twiki/pub/Atlas/AtlasTechnicalPaper/Main_jinst_0705j.pdf">The ATLAS Detector Paper, JINST, 2007.</a></li>
- <li>MissingET CSC Note (in preparation)</li>
+<!--
+<li><a href="https://twiki.cern.ch/twiki/pub/Atlas/AtlasTechnicalPaper/Main_jinst_0705j.pdf">
+The ATLAS Detector paper JINST, 2007.</a></li>
+-->
+<li>"The ATLAS Experiment at the CERN Large Hadron Collider," 
+JINST <b>3</b>  S08003, 2008.</a></li>
+<li><a href="http://cdsweb.cern.ch/record/1244473"> ATLAS-COM-CONF-2010-026, </a> 
+"The ATLAS missing Et trigger performance with initial LHC 
+runs at &radic;(s) = 900 GeV."</li>
+<li><a href="http://cdsweb.cern.ch/record/1351836"> ATL-CONF-2011-072, </a>
+"Performance of the ATLAS transverse energy triggers with initial LHC runs at 
+&radic;(s) = 7 TeV."</li>
+<li><a href="https://cds.cern.ch/record/1647616"> ATL-CONF-2014-002, </a>
+"The ATLAS transverse-momentum trigger performance at the LHC in 2011."</li>
 </ul>
 
 </div>

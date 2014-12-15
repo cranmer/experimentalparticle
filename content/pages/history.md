@@ -4,6 +4,7 @@ URL:
 save_as: history.html
 Authors: Kyle Cranmer
 Summary: 
+
 <div id="content">
 
 <a name="atlas" />
@@ -101,27 +102,23 @@ predicted by supersymmetry.</p>
 <a href="./images/event4.jpg ">
 <IMG width="200" SRC="./images/event4_small.jpg " /></a>
 
-<p>The NYU group is also active in the study of particles not coming from 
-Earth-based accelerators but originating instead in astronomical sources. 
+<p>The NYU group has also been active in the study of particles not coming 
+from Earth-based accelerators but originating instead in astronomical sources.
 <!-- <a href="http://umauhe.umd.edu/milagro.html">MILAGRO</a> -->
 <a href="milagro.html">MILAGRO </a>
 (Multiple Institution Los Alamos
-Gamma Ray Observatory: 
-is a high energy gamma ray astrophysics experiment
-in the Jemez Mountains near Los Alamos, New
-Mexico 
-(<a href="http://www.lanl.gov"> http://www.lanl.gov </a>). 
-It was the first detector designed to allow continuous detection from 
-the full
-over-head sky of photons with energy of about 100 GeV to 100 TeV
-(VHE gamma rays).  Among the
-studies which are be carried out with MILAGRO are a 
-VHE gamma ray survey of the
-northern sky, during which we have discovered several new TeV sources, 
-monitoring of known VHE gamma ray sources, study of
-gamma ray bursts, search for evaporating primordial black holes,  
-and studies of the solar magnetic field and solar flares.  
-Our NYU group has been working on Milagro since 1990. 
+Gamma Ray Observatory)
+was a high energy gamma ray astrophysics experiment in the Jemez 
+Mountains near Los Alamos, New Mexico ( http://www.lanl.gov ). It was the first
+detector designed to allow continuous detection from the full over-head sky 
+of photons with energy of about 100 GeV to 100 TeV (VHE gamma rays). Among
+the studies which were out with MILAGRO were a VHE gamma ray survey of the 
+northern sky, during which we discovered several new TeV sources, monitoring 
+of known VHE gamma ray sources, study of gamma ray bursts, and studies of the 
+solar magnetic field and solar flares. Our NYU group started working on Milagro 
+in 1990. The experiment ceased operation in April of 2008, when the final shift 
+was performed by NYU graduate student Grant Christopher.
+Some analysis of MILAGRO data is still underway.
 </p>
 </div>
 

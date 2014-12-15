@@ -1,42 +1,44 @@
-Title: Group
+Title: The NYU Experimental Particle Physics Group
 Date: 2013-06-28 14:33
 Author: Kyle Cranmer
 save_as: group.html
 
-<div id="content">
 
 <h2>Faculty</h2>
-<p>
-<table>
-<tbody>
-<tr>
-  <td><img height="150" src="./images/cranmer-blackboard.jpg" /></td>
-  <td><a href="http://physics.as.nyu.edu/object/KyleCranmer.html">Kyle Cranmer</a>,  Assistant Professor 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/cranmer-blackboard.jpg" /></div>
+  <div class="col-md-8"><a href="http://physics.as.nyu.edu/object/KyleCranmer.html">Kyle Cranmer</a>,  Associate Professor 
 <br />
   Interests: ATLAS, Higgs searches, statistical methods for particle physics, improved methods for publishing, data preservation, light gauge boson searches, MissingET triggers. <br />
   Publications: <a href="http://inspirehep.net/search?p=author%3AK.Cranmer.1+">INSPIRE</a> | 
 <a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=cranmer&amp;sc=1">CERN</a><br />
 
-  Presentations: <a href="http://indicosearch.cern.ch/search?p=cranmer&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
+  Presentations: <a href="http://indicosearch.cern.ch/search?p=cranmer&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a> <br />
+  <a href="http://twitter.com/kylecranmer"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
 
-</td>
-</tr>
+</div>
+</div>
 
-<tr>
-  <td><img height="150" src="./images/med/haas_andy_med.jpg" /></td>
-  <td><a href="http://physics.as.nyu.edu/object/AndyHaas.html">Andy Haas</a>,  Assistant Professor 
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/med/haas_andy_med.jpg" /></div>
+  <div class="col-md-8"><a href="http://physics.as.nyu.edu/object/AndyHaas.html">Andy Haas</a>,  Assistant Professor 
 <br />
   Interests: ATLAS, SUSY / Exotic searches (lepton-jets, new long-lived particles, etc.), Simulation software, Data acquisition. <br />
   Papers: <a href="http://inspirehep.net/search?p=author%3AA.Haas.3">INSPIRE</a><br />
   Presentations: <a href="https://indico.cern.ch/search.py?categId=0&p=haas%2C+andrew&f=&collections=Contributions&startDate=&endDate=&sortField=&sortOrder=d">ATLAS</a>
 
 
-</td>
-</tr>
+</div>
+</div>
 
-<tr>
-  <td><img height="150" src="./images/med/mincer_allen_med.jpg" /></td>
-  <td><a href="http://www.physics.as.nyu.edu/object/AllenMincer.html">
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/med/mincer_allen_med.jpg" /></div>
+  <div class="col-md-8"><a href="http://www.physics.as.nyu.edu/object/AllenMincer.html">
 Allen I. Mincer</a>,  Professor 
 <br />
   Interests: ATLAS: Supersymmetry searches, MissingET triggers; MILAGRO. <br />
@@ -47,11 +49,14 @@ Allen I. Mincer</a>,  Professor
 <br />
 <a href="http://www.physics.nyu.edu/~am3/">Additional Home page</a>
   
-</td>
-</tr>
-<tr>
-  <td><img height="150" src="http://physics.as.nyu.edu/props/IO/2812/42/nemethy.peter.jpg" /></td>
-  <td><a href="http://www.physics.as.nyu.edu/object/PeterNemethy.html">
+</div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="http://physics.as.nyu.edu/props/IO/2812/42/nemethy.peter.jpg" /></div>
+  <div class="col-md-8"><a href="http://www.physics.as.nyu.edu/object/PeterNemethy.html">
 Peter Nemethy</a>,  Professor 
 <br />
   Interests: ATLAS: Supersymmetry searches, MissingET triggers; MILAGRO. <br />
@@ -60,32 +65,33 @@ Peter Nemethy</a>,  Professor
 
   Presentations: <a href="http://indicosearch.cern.ch/search?p=nemethy&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
   
-</td>
-</tr>
-</tbody>
-</table>
-</p>
+</div>
+</div>
+
+- - - 
+
 
 <h2>Research Scientists and Research Associates</h2>
-<table>
-<tbody>
-<tr>
-  <td><img height="150" src="./images/diego.jpg" /></td>
-  <td><a href="http://www.physics.nyu.edu/people/casadei.diego.html">
-Diego Casadei </a>, Research Scientist
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Bernius.jpg" /></div>
+  <div class="col-md-8">
+Catrin Bernius, Research Scientist 
 <br />
-  Interests: ATLAS, Supersymmetry searches, astrophysics, statistical methods for particle physics, MissingET triggers. <br />
-  Publications: <a href="http://inspirehep.net/search?p=author%3AD.Casadei.1">INSPIRE</a> | 
-<a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&p=casadei&f=author&action_search=Search&c=CERN+Document+Server&c=&sf=&so=d&rm=&rg=500&sc=1&of=hb">CERN</a><br />
+  Interests: ATLAS, multileptons, supersymmetry searches. <br />
+  Publications: <a href="http://inspirehep.net/search?p=author%3Ac.Bernius.1">INSPIRE</a> | 
+<a href="https://cdsweb.cern.ch/search?ln=en&sc=1&p=bernius%2C+catrin&f=author&action_search=Search&c=Articles+%26+Preprints&c=Books+%26+Proceedings&c=Presentations+%26+Talks&c=Periodicals+%26+Progress+Reports&c=Multimedia+%26+Outreach">CERN</a><br />
 
-  Presentations: <a href="http://indicosearch.cern.ch/search?p=casadei&f=&action_search=Search&c=&sf=&so=d&rm=&rg=500&sc=1&of=hb">ATLAS</a>
+  Presentations: <a href="http://indicosearch.cern.ch/search?p=Catrin+Bernius&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
  
-  </td>
-</tr>
+  </div>
+</div>
 
-<tr>
-  <td><img height="150" src="./images/Kaplan_0.jpg" /></td>
-  <td>
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Kaplan_0.jpg" /></div>
+  <div class="col-md-8">
 Benjamin Kaplan, Research Scientist
 <br />
   Interests: ATLAS, multileptons, supersymmetry searches. <br />
@@ -94,12 +100,14 @@ Benjamin Kaplan, Research Scientist
 
   Presentations: <a href="https://indico.cern.ch/search.py?categId=0&p=benjamin+kaplan&f=author&collections=&startDate=&endDate=&sortField=&sortOrder=d">ATLAS</a>
  
-  </td>
-</tr>
+  </div>
+</div>
 
-<tr>
-  <td><img height="150" src="./images/rostislav.konoplich.jpg" /></td>
-  <td><a href="http://www.manhattan.edu/academics/science/physics/faculty/rostislav.konoplich.shtml">Rostislav Konoplich</a>, Associate Professor of Physics at Manhattan College
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/rostislav.konoplich.jpg" /></div>
+  <div class="col-md-8"><a href="http://www.manhattan.edu/academics/science/physics/faculty/rostislav.konoplich.shtml">Rostislav Konoplich</a>, Associate Professor of Physics at Manhattan College
 <br />
   Interests: ATLAS: Supersymmetry searches and measurements;  Elementary particle phenomenology; astrophysics.<br />
   Publications: <a href="http://inspirehep.net/search?p=author%3AR.V.Konoplich.1">INSPIRE</a> | 
@@ -107,183 +115,113 @@ Benjamin Kaplan, Research Scientist
 
   Presentations: <a href="http://indicosearch.cern.ch/search?p=Konoplich&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
   
-  </td>
-</tr>
+  </div>
+</div>
 
-<tr>
-  <td><img height="150" src="./images/Attila_small.jpg" /></td>
-  <td><a href="http://atlas-service-enews.web.cern.ch/atlas-service-enews/2010/profiles_10/profiles_krasznahorkay.php">Attila Krasznahorkay</a>, Research Scientist
-<br />
-  Interests: ATLAS: Top physics, Trigger, Analysis Software. <br />
-  Publications: <a href="http://inspirehep.net/search?p=author%3AA.Krasznahorkay.1">INSPIRE</a> | 
-<a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=krasznahorkay&amp;sc=1">CERN</a><br />
 
-  Presentations: <a href="http://indicosearch.cern.ch/search?p=krasznahorkay&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a> <br />
-  
-  </td>
-</tr>
 
-<tr>
-  <td><img height="120" src="./images/Chris.jpg" /></td>
-  <td><a href="http://www.physics.nyu.edu/people/musso.christopher.html">
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Chris.jpg" /></div>
+  <div class="col-md-8"><a href="http://www.physics.nyu.edu/people/musso.christopher.html">
 Christopher Musso </a>, Staff
 <br />
   Interests: ATLAS: Instrumentation and LHC upgrade. <br />
  
-  </td>
-</tr>
+  </div>
+</div>
 
-<!--
-<tr>
-  <td><img height="150" src="./images/rashid.jpg" /></td>
-  <td><a href="http://www.physics.nyu.edu/people/djilkibaev.rashid.html">
-Rashid Djilkibaev </a>, Research Scientist
-<br />
-  Interests: ATLAS: Supersymmetry searches and measurements, MissingET triggers; MECO. <br />
-  Publications: <a href="http://www.slac.stanford.edu/spires/find/hep/www?rawcmd=find+a+Djilkibaev%2C+r">SPIRES</a> | 
-<a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=Djilkibaev&amp;sc=1">CERN</a><br />
+- - - 
 
-  Presentations: <a href="http://indicosearch.cern.ch/search?p=Djilkibaev&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
-  
-  </td>
-</tr>
-<tr>
-  <td><img height="150" src="./images/akira2.png" /></td>
-  <td><a href="http://www.physics.nyu.edu/people/shibata.akira.html">Akira Shibata</a>, Research Scientist
-<br />
-  Interests: ATLAS: Top physics, Higgs searches, analysis software. <br />
-  Publications: <a href="http://www.slac.stanford.edu/spires/find/hep/www?rawcmd=FIND+EA+shibata%2C+A&FORMAT=www&SEQUENCE=">SPIRES</a> | 
-<a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=shibata&amp;sc=1">CERN</a><br />
-
-  Presentations: <a href="http://indicosearch.cern.ch/search?p=Shibata&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a> <br />
-Personal Website:  <a href="http://asymptotic-freedom.com">asymptotic-freedom.com</a>
-  
-  </td>
-</tr>
--->
-
-<tr>
-  <td><img height="150" src="./images/Kirill.jpg" /></td>
-  <td>Kirill Prokofiev, Research Scientist
-<br />
-  Interests: ATLAS: Higgs physics, tracking, vertexing, luminosity measurements. <br />
-  Publications: <a href="http://inspirehep.net/search?p=author%3AK.Prokofiev.1">INSPIRE</a> | 
-<a href="https://cdsweb.cern.ch/search?ln=en&p=prokofiev%2C+kirill&f=author&action_search=Search&c=CERN+Document+Server&sf=&so=d&rm=&rg=10&sc=1&of=hb">CERN</a><br />
-
-  Presentations: <a href="https://indico.cern.ch/search.py?categId=0&p=kirill+prokofiev&f=&collections=&startDate=&endDate=&sortField=&sortOrder=d">ATLAS</a> <br />
-  
-  </td>
-</tr>
-
-</tbody>
-</table>
 
 
 <h2>Graduate Students</h2>
-<table>
-<tbody>
-<tr>
-  <td><img height="150" src="./images/med/beacham_james.jpg" /></td>
-  <td><a href="http://www.physics.nyu.edu/people/beacham.james.html"> 
+
+
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Lukas.jpg" /></div>
+  <div class="col-md-8">Lukas Heinrich
+<br />
+  Interests: ATLAS, SUSY searches. <br />
+  </div>
+</div>
+
+- - - 
+
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Karthik.JPG" /></div>
+  <div class="col-md-8">Karthik Krishnaiyengar
+<br />
+  Interests: ATLAS, SUSY searches. <br />
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/neves.ricardo.jpg" /></div>
+  <div class="col-md-8">Ricardo Neves
+<br />
+  Interests: ATLAS, trigger, top physics. <br />
+  </div>
+</div>
+
+- - - 
+
+
+<!--          -->
+<h2>Former Graduate Students </h2>
+
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Sven.jpg" /></div>
+  <div class="col-md-8">Sven Kreiss
+<br />
+  Interests: ATLAS, Higgs searches, top physics, statistical tools. <br />
+<br />
+<a href="http://svenkreiss.com/">personal page</a></div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/med/beacham_james.jpg" /></div>
+  <div class="col-md-8"><a href="http://www.physics.nyu.edu/people/beacham.james.html"> 
 James Beacham</a>
 <br />
   Interests: ATLAS: Higgs-related searches, APEX: light gauge boson searches, archival ALEPH analyses
 <br />
 <a href="http://physics.nyu.edu/~jbb334/">personal page</a>
-  </td>
-</tr>
-<!--
-<tr>
-  <td><img height="120" src="./images/SmileyFace.jpg" /></td>
-  <td><a href="http://www.physics.nyu.edu/people/christopher.grant.html"> 
-Grant Christopher</a>
-<br />
-  Interests: MILAGRO  
-  </td>
-</tr>
--->
-<tr>
-  <td><img height="150" src="./images/LoekHvH.jpg" /></td>
-  <td>Loek Hooft van Huysduynen
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/LoekHvH.jpg" /></div>
+  <div class="col-md-8">Loek Hooft van Huysduynen
 <br />
   Interests: ATLAS, lepton jets, top physics. <br />
-  </td>
-</tr>
-<tr>
-  <td><img height="120" src="./images/Sven.jpg" /></td>
-  <td>Sven Kreiss
-<br />
-  Interests: ATLAS, Higgs searches, top physics, statistical tools. <br />
-<br />
-<a href="http://svenkreiss.com/">personal page</a></td>
-</tr>
-<tr>
-  <td><img height="120" src="./images/Karthik.JPG" /></td>
-  <td>Karthik Krishnaiyengar
-<br />
-  Interests: ATLAS, SUSY searches. <br />
-  </td>
-</tr>
-<tr>
-  <td><img height="120" src="./images/GeorgeLewis.jpg" /></td>
-  <td>George Herbert Lewis
+  </div>
+</div>
+
+- - - 
+
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/GeorgeLewis.jpg" /></div>
+  <div class="col-md-8">George Herbert Lewis
 <br />
   Interests: ATLAS, Higgs searches, top physics. <br />
-  </td>
-</tr>
-<tr>
-  <td><img height="150" src="./images/neves.ricardo.jpg" /></td>
-  <td>Ricardo Neves
-<br />
-  Interests: ATLAS, trigger, top physics. <br />
-  </td>
-</tr>
-<!--
-<tr>
-  <td><img height="150" src="./images/zhao.long.jpg" /></td>
-  <td><a href="http://www.physics.nyu.edu/people/zhao.long.html"> 
-Long Zhao</a>
-<br />
-  Interests: ATLAS: Supersymmetry searches and measurements, MissingET Triggers. <br />
+  </div>
+</div>
 
-  Presentations: <a href="http://indicosearch.cern.ch/search?p=Zhao+long&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
-  
-  </td>
-</tr>
--->
+- - - 
 
 
-</tbody>
-</table>
-
-
-<!--
-<UL>
-<LI><a href="http://www.physics.nyu.edu/people/casadei.diego.html">
-Diego Casadei </a>
-<LI><a href="http://physics.as.nyu.edu/object/KyleCranmer.html">
-Kyle Cranmer </a>
-<LI><a href="http://www.physics.nyu.edu/people/djilkibaev.rashid.html">
-Rashid Djilkibaev </a>
-<LI><a href="http://www.physics.nyu.edu/people/kolterman.brian.html"> 
-Brian Kolterman</a>
-<LI><a href="http://www.manhattan.edu/academics/science/physics/faculty/rostislav.konoplich.shtml">
-Rostislav Konoplich </a>
-<LI><a href="http://www.physics.as.nyu.edu/object/AllenMincer.html">
-Allen I. Mincer</a>
-<LI><a href="http://www.physics.nyu.edu/people/musso.christopher.html">
-Christopher Musso </a>
-<LI><a href="http://www.physics.as.nyu.edu/object/PeterNemethy.html">
-Peter Nemethy</a>
-<LI><a href="http://www.physics.nyu.edu/people/shibata.akira.html">
-Akira Shibata</a>
-<LI><a href="http://www.physics.nyu.edu/people/zhao.long.html"> 
-Long Zhao</a>
-</UL>
--->
-
-<!--          -->
-<h2>Recent Ph.D.s </h2>
 <UL>
 <li>Grant Christopher, "Physics from the Very-High Energy Cosmic-Ray Shadows of the Moon and
 Sun with Milagro", Milagro, 2011</li>
@@ -294,6 +232,59 @@ Sun with Milagro", Milagro, 2011</li>
 with Milagro," 2003.</li>
 <LI>Lazar Fleysher"Search for Relic Neutralinos with Milagro," 2003.</li>
 </UL>
+
+- - - 
+
+
+<!--          -->
+<h2>Former Research Scientists and Research Associates </h2>
+
+
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Kirill.jpg" /></div>
+  <div class="col-md-8">Kirill Prokofiev, Research Scientist
+<br />
+  Interests: ATLAS: Higgs physics, tracking, vertexing, luminosity measurements. <br />
+  Publications: <a href="http://inspirehep.net/search?p=author%3AK.Prokofiev.1">INSPIRE</a> | 
+<a href="https://cdsweb.cern.ch/search?ln=en&p=prokofiev%2C+kirill&f=author&action_search=Search&c=CERN+Document+Server&sf=&so=d&rm=&rg=10&sc=1&of=hb">CERN</a><br />
+
+  Presentations: <a href="https://indico.cern.ch/search.py?categId=0&p=kirill+prokofiev&f=&collections=&startDate=&endDate=&sortField=&sortOrder=d">ATLAS</a> <br />
+  
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Attila_small.jpg" /></div>
+  <div class="col-md-8"><a href="http://atlas-service-enews.web.cern.ch/atlas-service-enews/2010/profiles_10/profiles_krasznahorkay.php">Attila Krasznahorkay</a>, Research Scientist
+<br />
+  Interests: ATLAS: Top physics, Trigger, Analysis Software. <br />
+  Publications: <a href="http://inspirehep.net/search?p=author%3AA.Krasznahorkay.1">INSPIRE</a> | 
+<a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=krasznahorkay&amp;sc=1">CERN</a><br />
+
+  Presentations: <a href="http://indicosearch.cern.ch/search?p=krasznahorkay&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a> <br />
+  
+  </div>
+</div>
+
+- - - 
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/diego.jpg" /></div>
+  <div class="col-md-8"><a href="http://www.physics.nyu.edu/people/casadei.diego.html">
+Diego Casadei </a>, Research Scientist
+<br />
+  Interests: ATLAS, Supersymmetry searches, astrophysics, statistical methods for particle physics, MissingET triggers. <br />
+  Publications: <a href="http://inspirehep.net/search?p=author%3AD.Casadei.1">INSPIRE</a> | 
+<a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&p=casadei&f=author&action_search=Search&c=CERN+Document+Server&c=&sf=&so=d&rm=&rg=500&sc=1&of=hb">CERN</a><br />
+
+  Presentations: <a href="http://indicosearch.cern.ch/search?p=casadei&f=&action_search=Search&c=&sf=&so=d&rm=&rg=500&sc=1&of=hb">ATLAS</a>
+ 
+  </div>
+</div>
+
+- - - 
 
 
 <h2>Emeritus Faculty</h2>
@@ -319,4 +310,3 @@ SRC="./images/atlas/p6030068_tiny.jpg"/></a>
 
 
 
-</div>

@@ -1,3 +1,8 @@
+Title: CERN Tips
+date: 2006-07-01
+Authors: Kyle Cranmer
+save_as: CERNtips.html
+
 <h1 align=center>Tips for US Newcomers to CERN</h1>
 
 <FONT SIZE=4>

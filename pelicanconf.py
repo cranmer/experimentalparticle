@@ -30,20 +30,22 @@ DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
 
 
 
-MENUITEMS = (
-			('People','/group.html'),
+MENUITEMS = (('People','/group.html'),
 			('Research','/research.html'),
-			('Publications','/publications.html'),
 			('Funding','/funding.html'),
-			('Media & Outreach','/outreach.html'),)
+			('Media & Outreach','/outreach.html'),
+			('Blog','/category/blog.html'),)
 
 # Blogroll
 LINKS =  (('NYU Physics Department','http://physics.as.nyu.edu/page/home'),
-		('ATLAS','http://atlas.web.cern.ch'),)
+		('The ATLAS Experiment','http://atlas.web.cern.ch'), 
+		('Center for Cosmology & Particle Physics','http://cosmo.physics.nyu.edu'),
+		('Center for Data Science','http://cds.nyu.edu'))
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('LinkedIn', ''),
+          ('Twitter', '#'),)
+#SOCIAL = None
 
 DEFAULT_PAGINATION = False
 

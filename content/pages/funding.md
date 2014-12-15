@@ -5,29 +5,28 @@ save_as: funding.html
 Authors: Kyle Cranmer
 Summary: 
 
-<div id="content">
 
 <p>
 <img align="left" src="./images/NSF_logo.gif" />
 The NYU experimental particle physics group is supported in part by a grant from the National Science Foundation. 
 </p>
+<br clear="all">
+
+* PHY-1404408 5/6/14 - 4/30/15 "Searches for New Physics with the ATLAS Experiment at the LHC" (Haas)
+* PHY-1205376 6/15/12-5/31/15 "Elementary Particle Physics with ATLAS" (Cranmer, Mincer, Nemethy)
+* PHY-0955626￼CAREER , 2009-2015 (Cranmer)
+* PHY-0854724 9/1/09-8/31/12 "Elementary Particle Physics with ATLAS" (Cranmer, Mincer, Nemethy)
+* PHY-1205376 6/15/12-5/31/15 "Elementary Particle Physics with ATLAS"
+* PHY-0629419 9/1/06-8/31/09 "Elementary Particle Physics with ATLAS" (Mincer, Nemethy)
+* PHY-0504201 2005-2008 "Particle Astrophysics with Milagro” (Mincer, Nemethy)
+
+- - -
 
 <br clear="all"/>
 <hr />
 
 <p>
 <img align="left" src="./images/New_DOE_Logo_Color_Screen-Res-Small_042808.jpg" />
-In addition, Professor Kyle Cranmer was a recipient of the 2006 Presidential Early Career Award for Science and Engineering from the Department of Energy's Office of Science.  The award lasts for five years.
+Professor Cranmer was a recipient of the 2006 Presidential Early Career Award for Science and Engineering from the Department of Energy's Office of Science.  The award lasts for five years.
 </p>
 
-<br clear="all"/>
-<hr />
-
-<p>
-The experiments described are supported by the various agencies listed on those experiments' home pages.
-</p>
-
-<br clear="all"/>
-<hr />
-This website contains images copyrighted by CERN.  Their use is provided according to <a href="http://cdsweb.cern.ch/help/high-res-multimedia">the conditions of use</a>.
-</div>

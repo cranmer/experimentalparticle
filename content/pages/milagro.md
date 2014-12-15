@@ -18,7 +18,7 @@ Summary:
 <li><a href="#whatmil"> Description of the experiment. </a>
 <li><a href="#howmil"> How Milagro detects VHE photons. </a>
 <li><a href="#history"> A brief history of Milagro. </a>
-<li><a href="#pubs"> Some Milagro publications. </a>
+<li><a href="#pubs"> Milagro refereed publications. </a>
 <li><a href="#ackn"> Acknowledgements. </a>
 </UL>
 </p>
@@ -400,8 +400,31 @@ for more Milagro information.<p>
 
 <dl>
 
+<dt>2014<dd>
+"Milagro Limits and HAWC Sensitivity for the
+Rate-Density of Evaporating Primordial Black Holes,"
+AstroPtl. Phys. <u>64</u>, 4 (2014)<p>
+
+"Milagro Observations of Potential TeV Emitters",
+AstroPtl. Phys. <u>57-58</u>, 16 (2014)<p>
+
+"The Study of TeV Variability and the Duty Cycle of Mrk 421 from 3 Yr of 
+Observations with the  Milagro Observatory",
+Ap.J. <u>782</u>, 110 (2014)<p>
+
+<dt>2012<dd>
+"Spectrum and Morphology of the Two Brightest Milagro Sources 
+in the Cygnus Region: MGRO J2019+37 and MGRO J2031+41",
+Ap.J. <u>753</u>, 159 (2012)<p>
+
+"Constraints on the emission model of the `Naked-Eye Burst' GRB 080319",
+Ap.J. Lett. <u>753</u>, L31 (2012)<p>
+
+"Observation and Spectral Measurements of the Crab Nebula with Milagro",
+Ap.J. <u>750</u>, 63 (2012)<p>
+
 <dt>2009<dd>
-"The Large Scale Cosmic-Ray Anisotropy as Observed with Milagro"
+"The Large Scale Cosmic-Ray Anisotropy as Observed with Milagro",
 Ap.J. <u>698</u>, 2121 (2009)<p>
 
 "Milagro Observations of Multi-TeV Emission from Galactic

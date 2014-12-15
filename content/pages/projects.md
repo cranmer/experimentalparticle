@@ -1,11 +1,10 @@
-Title: projects
+Title: Research Projects
 date: 2014-03-21 10:53
 save_as: research.html
 Authors: Kyle Cranmer
 Summary: 
 
 <div id="content">
-<h1>NYU participation in ATLAS</h1>
 
 <p>The NYU group became an official member of ATLAS in July of 2006.  We are very active in the collaboration.  Below is a brief description of our major activities.</p>
 
