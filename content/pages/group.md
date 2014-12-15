@@ -15,7 +15,11 @@ save_as: group.html
 <a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=cranmer&amp;sc=1">CERN</a><br />
 
   Presentations: <a href="http://indicosearch.cern.ch/search?p=cranmer&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a> <br />
-  <a href="http://twitter.com/kylecranmer"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
+<a href="https://en.wikipedia.org/wiki/Kyle_Cranmer">Wikipedia</a> <br />
+<a href="http://impactstory.org/KyleCranmer">ImpactStory</a> <br />
+<a href="http://orcid.org/0000-0002-5769-7094">ORCID : 0000-0002-5769-7094</a> <br />
+<a href="http://theoryandpractice.org">Personal homepage</a> <br />
+<a href="http://twitter.com/kylecranmer"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
 
 </div>
 </div>
@@ -221,19 +225,58 @@ James Beacham</a>
 
 - - - 
 
-
-<UL>
-<li>Grant Christopher, "Physics from the Very-High Energy Cosmic-Ray Shadows of the Moon and
-Sun with Milagro", Milagro, 2011</li>
-<li>Long Zhao, "A Global Fitting Method to Improve Missing Transverse Energy by Hadronic Energy Scale Correction", ATLAS, 2011</li>
-<li>Brian Kolterman, "Observation of the Large Scale Cosmic-Ray Anisotropy at TeV Energies with the Milagro Detector," 2008.</li>
-
-<LI>Roman Fleysher, "Search for Gamma-ray Emission from Galactic Plane 
-with Milagro," 2003.</li>
-<LI>Lazar Fleysher"Search for Relic Neutralinos with Milagro," 2003.</li>
-</UL>
+<div class="row">
+  <div class="col-md-4"></div>
+  <div class="col-md-8">Grant Christopher
+<br />
+  Thesis: "Physics from the Very-High Energy Cosmic-Ray Shadows of the Moon and
+Sun with Milagro", Milagro, 2011 <br />
+went on to: post doc at Boston University
+  </div>
+</div>
 
 - - - 
+
+<div class="row">
+  <div class="col-md-4"></div>
+  <div class="col-md-8">Long Zhao
+<br />
+  Thesis: "A Global Fitting Method to Improve Missing Transverse Energy by Hadronic Energy Scale Correction", ATLAS, 2011
+  <br />
+went on to: Goldman Sachs special situation group
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"></div>
+  <div class="col-md-8">Brian Kolterman
+<br />
+  Thesis: ""Observation of the Large Scale Cosmic-Ray Anisotropy at TeV Energies with the Milagro Detector," 2008. <br />
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"></div>
+  <div class="col-md-8">Roman Fleysher
+<br />
+  Thesis: "Search for Gamma-ray Emission from Galactic Plane 
+with Milagro," 2003. <br />
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"></div>
+  <div class="col-md-8">Lazar Fleysher
+<br />
+  Thesis: "Search for Relic Neutralinos with Milagro," 2003. <br />
+  </div>
+</div>
 
 
 <!--          -->
