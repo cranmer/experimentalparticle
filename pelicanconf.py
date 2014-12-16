@@ -102,6 +102,8 @@ BOOTSTRAP_THEME='yeti'
 
 TWITTER_CARDS=True
 USE_OPEN_GRAPH=True
-OPEN_GRAPH_IMAGE="http://physics.nyu.edu/~kc90/experimentalparticle_new/images/atlas-famous-card.jpeg"
+TWITTER_DESCRIPTION='The website for the Experimental Particle Physics @ NYU'
+TWITTER_USERNAME='kylecranmer'
+OPEN_GRAPH_IMAGE="images/atlas-famous-card.jpeg"
 
 

@@ -15,7 +15,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=samba.physics.nyu.edu
 SSH_PORT=4426
 SSH_USER=kc90
-SSH_TARGET_DIR=/home/users3/kc90/public_html/experimentalparticle_new/
+SSH_TARGET_DIR=/home/users3/kc90/public_html/experimentalparticle/
 
 S3_BUCKET=my_s3_bucket
 

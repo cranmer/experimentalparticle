@@ -9,7 +9,7 @@ Summary:  We are migrating our group's web pages to Pelican.
 
 We are migrating our group's web pages to Pelican.
 
-Now you can type $e^{i\pi}+1=0$ or some physics like $h \to \tilde{\chi}^0_1  \tilde{\chi}^0_2$ followed by $\tilde{\chi}_2^0 \to  \tilde{\chi}_2^0 \tilde{G}$ !
+Now you can type $e^{i\pi}+1=0$ or some physics like $h \to \tilde{\chi}^0_2  \tilde{\chi}^0_1$ followed by $\tilde{\chi}_1^0 \to  \gamma \tilde{G}$ !
 
 We can add some pretty code
 

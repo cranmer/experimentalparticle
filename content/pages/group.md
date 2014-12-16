@@ -158,6 +158,16 @@ Christopher Musso </a>, Staff
 
 - - - 
 
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/kohani.shahab.jpg" /></div>
+  <div class="col-md-8">Shahab Kohani 
+<br />
+    Interests- tracking detectors.
+ <br />
+  </div>
+</div>
+
+- - - 
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/Karthik.JPG" /></div>
@@ -250,7 +260,8 @@ Went on to: data scientist at <a href="http://www.lenduploans.com">LendUp</a>
 <br />
   Thesis: "Physics from the Very-High Energy Cosmic-Ray Shadows of the Moon and
 Sun with Milagro", Milagro, 2011 <br />
-Went on to: post doc at Brown University
+Went on to: post doc at Brown University; now at the International Centre for Security Analysis 
+King's College, London
   </div>
 </div>
 
@@ -273,6 +284,8 @@ Went on to: Goldman Sachs special situation group
   <div class="col-md-8">Brian Kolterman
 <br />
   Thesis: "Observation of the Large Scale Cosmic-Ray Anisotropy at TeV Energies with the Milagro Detector," 2008. <br />
+  Went on to: Theoretical neuroscience at Cold Spring Harbor Laboratory
+
   </div>
 </div>
 
@@ -284,6 +297,8 @@ Went on to: Goldman Sachs special situation group
 <br />
   Thesis: "Search for Gamma-ray Emission from Galactic Plane 
 with Milagro," 2003. <br />
+Went on to: Research Assistant Professor, Department of Radiology
+Albert Einstein College of Medicine
   </div>
 </div>
 
@@ -294,6 +309,8 @@ with Milagro," 2003. <br />
   <div class="col-md-8">Lazar Fleysher
 <br />
   Thesis: "Search for Relic Neutralinos with Milagro," 2003. <br />
+  Went on to: Associate Scientist, Translational and Molecular Imaging Institute
+Icahn School of Medicine, Mount Sinai
   </div>
 </div>
 
@@ -356,7 +373,7 @@ Diego Casadei </a>, Research Scientist
 
 <div class="row">
   <div class="col-md-4"></div>
-  <div class="col-md-8">John Sculli
+  <div class="col-md-8"><a href="http://www.physics.nyu.edu/people/sculli.john.html">John Sculli</a>
 <br />
   Went on to: retire in style
   </div>

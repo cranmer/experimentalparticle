@@ -7,21 +7,26 @@ Summary:
 
 
 
-<p>
 The Experimental Particle Physics Group at New York University is thriving!  
+
 Our primary focus is the <a href="history.html#atlas">ATLAS</a> experiment 
 at the <a href="http://lhc.web.cern.ch/lhc/">Large Hadron Collider</a>.  
-We recently hired a new faculty member and a research associate, and now 
-have several key roles in ATLAS.  We are also key contributors to the 
+We recently hired a Andy Haas, our group's fourth faculty member and a Catrin Bernius, a post-doctoral research associate. Our group has have several [key roles in ATLAS](tag/honors.html).  
+
+**Interested in applying to NYU for graduate studies in physics?**
+[More here](http://physics.as.nyu.edu/page/graduate)
+
+In addition to our work on ATLAS, we are also key contributors to the 
 <a href="history.html#apex">APEX</a> experiment at Jefferson Lab, 
-are active in the LHC upgrade,
-were long term members of the  <a href="history.html#milagro">MILAGRO</a> 
+active in the LHC upgrade, and contribute to various new ideas in particle physics experiments.
+
+Prior to joining ATLAS, we were long term members of the  <a href="history.html#milagro">MILAGRO</a> 
 experiment until it came to an end and gave way to the next generation
 HAWC experiment, and 
 were involved in the <a href="history.html#meco">MECO</a> experiment before its termination.  Please have a look at our <a href="group.html">group</a>.
-</p>
 
-<br clear="all" />
+
+
 
 <!--
 <div id="topic">
