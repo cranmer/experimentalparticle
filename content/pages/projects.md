@@ -43,9 +43,9 @@ Summary:
       <!--
       <img data-src="holder.js/700x300/auto/#666:#444/text:APEX" alt="APEX">
       -->
-      <img src="images/aleph-carousel.png" alt="...">
+      <img src="images/aleph-carousel.jpg" alt="...">
       <div class="carousel-caption">
-        <h1>APEX</h1>
+        <h1>ALEPH</h1>
         <p>Exotic Higgs with archived data</p>
       </div>
     </div>
