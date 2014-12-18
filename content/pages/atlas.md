@@ -21,17 +21,6 @@ activities.</p>
 <br clear="all" />
 
 
-<!--
-<div id="topic">
-  <h2>First Beam!</h2>
-<a href="http://atlas.web.cern.ch/Atlas/GROUPS/OPERATIONS/prodSys/atlasoracleadmin/10Sep2008/beam/vp1-atlas-beam.swf"><img style="width:200px;" src="./images/movie_thumb.png"/></a>
-<p>On September 10, ATLAS saw its first beam from the LHC.  ATLAS saw the first few events from the beam commissioning (not yet true collisions) on that day.  You can see some event displays of those first collisions <a href="http://atlas.web.cern.ch/Atlas/GROUPS/OPERATIONS/prodSys/atlasoracleadmin/10Sep2008/beam/">here</a>.  The startup of the LHC was going fairly well, until there was an incident on September 19.  For more information, see an article in <em>symmetry breaking</em> <a href="http://www.symmetrymagazine.org/breaking/2008/10/16/cern-releases-analysis-of-lhc-incident/">here</a>. It is expected that the LHC will start back up in late spring of 2009. </p>
-</div>
-
-<br clear="all" />
-
--->
-
 
 <div id="topic">
   <h2>Higgs Searches</h2>
@@ -39,15 +28,6 @@ activities.</p>
   <p>
     Professor Cranmer has been active in ATLAS Higgs searches for several years, focusing primarily on low-mass Higgs searches through the Vector Boson Fusion (VBF) mechanism.  The low-mass range is preferred by precision electro-weak measurements and supersymmetric scenarios.  In particular, Higgs decaying to tau leptons is a promising channel.  Cranmer is the convenor of the US-ATLAS Higgs analysis forum.  Akira Shibata and two prospective graduate students, George Lewis and Jordan Ziegler, are joining the effort.  We also keep close contact with our theorist colleagues in the <a href="http://cosmo.nyu.edu/index.html">CCPP</a> about <a href="http://www.slac.stanford.edu/spires/find/hep/www?rawcmd=find+a+weiner+and+chang&FORMAT=WWW&SEQUENCE=">non-standard Higgs models</a>.
   </p>
-
-<ul>
- <li>The ATLAS Higgs CSC Chapter (in preparation)</li>
- <li><a href="http://www.slac.stanford.edu/spires/find/hep/www?irn=6664253">Maximum significance at the LHC and Higgs decays to muons.
-K. Cranmer , T. Plehn. Eur.Phys.J.C51:415-420,2007. </a></li>
- <li><a href="http://www.slac.stanford.edu/spires/find/hep/www?irn=5805295">Prospects for the search for a standard model Higgs boson in ATLAS using vector boson fusion.
-S. Asai et al. Eur.Phys.J.C32S2:19-54,2004. </a></li>
- <li><a href="http://www.slac.stanford.edu/spires/find/hep/www?irn=5901073">The (Les Houches) Higgs working group: Summary report 2003.</a></li>
-</ul>
 
 </div>
 
@@ -72,12 +52,11 @@ Several members of our group have held leadership positions on MET, and most
 members of our group have contributed to the trigger in general and/or the MET 
 trigger. 
 
+<!--
 Some representative trigger-related publications include:
 <ul>
-<!--
 <li><a href="https://twiki.cern.ch/twiki/pub/Atlas/AtlasTechnicalPaper/Main_jinst_0705j.pdf">
 The ATLAS Detector paper JINST, 2007.</a></li>
--->
 <li>"The ATLAS Experiment at the CERN Large Hadron Collider," 
 JINST <b>3</b>  S08003, 2008.</a></li>
 <li><a href="http://cdsweb.cern.ch/record/1244473"> ATLAS-COM-CONF-2010-026, </a> 
@@ -89,6 +68,7 @@ runs at &radic;(s) = 900 GeV."</li>
 <li><a href="https://cds.cern.ch/record/1647616"> ATL-CONF-2014-002, </a>
 "The ATLAS transverse-momentum trigger performance at the LHC in 2011."</li>
 </ul>
+-->
 
 </div>
 
@@ -98,23 +78,25 @@ runs at &radic;(s) = 900 GeV."</li>
   <h2>Supersymmetry</h2>
   <img src="./images/atlas/SUSY_Chain_small.png">
   <p>
-    Supersymmetry (SUSY) is one of the most well-motivated and well-developed scenarios for physics beyond the standard model.  If SUSY is the solution to the hierarchy problem, then it is very likely that we will see SUSY particles at the LHC.  In <a href="http://en.wikipedia.org/wiki/R-parity">R-parity</a> conserving SUSY models, decays of SUSY particles always end with the Lightest Supersymmetric Particle (LSP), which is stable and weakly interacting.  Thus, the LSP provides a natural candidate for dark matter.  While the LSP would escape ATLAS undetected, it would leave a signature in Missing Transverse Energy (MET).  This provides a strong link between our groups interest in SUSY and our work on MET triggers.  If we are lucky enough to discovery SUSY at the LHC, the next challenge will be measuring the properties of the particles and unravling the many potential SUSY scenarios.  Rostislav Konoplich and Rashid Djilkibaev are actively developing a novel mass measurement strategy, which promises competative measurements with a fraction of the data.
+    Supersymmetry (SUSY) is one of the most well-motivated and well-developed scenarios for physics beyond the standard model.  If SUSY is the solution to the hierarchy problem, then it is very likely that we will see SUSY particles at the LHC.  In <a href="http://en.wikipedia.org/wiki/R-parity">R-parity</a> conserving SUSY models, decays of SUSY particles always end with the Lightest Supersymmetric Particle (LSP), which is stable and weakly interacting.  Thus, the LSP provides a natural candidate for dark matter.  While the LSP would escape ATLAS undetected, it would leave a signature in Missing Transverse Energy (MET).  This provides a strong link between our groups interest in SUSY and our work on MET triggers.  
   </p>
 
+<!--
 <ul>
  <li><a href="http://www.slac.stanford.edu/spires/find/hep/www?rawcmd=find+bb+arxiv%3A0705.0487">Natural priors, CMSSM fits and LHC weather forecasts.
 B. Allanach, K. Cranmer, C. Lester, A. Weber.  JHEP 0708:023,2007.</a></li>
 </ul>
+-->
 
 </div>
 
+<!--
 <br clear="all" />
 
 
 <div id="topic">
   <h2>The ATLAS Analysis Model and EventView</h2>
 <img src="./images/atlas/EventViewPoster_small.png">
-<!--  <img src="./images/atlas/EventView_small.png">-->
   <p>
 The LHC experiments will produce an unprecidented amount of data, which poses a significant computing challenge.  The ability to quickly and felxibly analyse those data is critical to the success of the ATLAS collaboration.  NYU plays a major role in the development of the ATLAS Analysis Model.  Kyle Cranmer was the original developer for many of the classes which are used to store the ATLAS data (eg. the AOD and ESD) and is the physics analysis tools group representative on ATLAS's Event Data Model committee and the Architecture-team.</p>
 
@@ -133,6 +115,7 @@ In addition to contributions to the data format and physics analysis tools, the 
 
 
 </div>
+-->
 
 <br clear="all" />
 
@@ -145,6 +128,8 @@ In addition to contributions to the data format and physics analysis tools, the 
   <p>
     Statistics plays an important role in science, and particularly in particle physics.  Taking full advantage of the data, while properly incorporating systematic errors is a difficult task and often involves combining several sources of data in a complicated statistical model.  In addition to important formal developments by our group (see links below), Kyle Cranmer is on the steering committee of the <a href="http://Phystat.org">Phystat.org</a> and an appointed member of the ATLAS statistics committee.  He and Rene Brun have initiated the RooStats project -- a suite of high-level statistical tools in ROOT built on top of <a href="http://roofit.sourceforge.net">RooFit</a>.  It has already been demonstraited that one can digitially publish a full likelihood model, together with the relevant data, in order to statistically combine multiple measurements or perform multi-dimensional parameter scans.
   </p>
+
+<!--
 <ul>
 <li><a href="http://indico.cern.ch/getFile.py/access?contribId=41&resId=0&materialId=slides&confId=13356">RooStats</a></li>
  <li><a href="http://cdsweb.cern.ch/record/1099969">Statistics for the LHC: Progress, Challenges, and Future. K. Cranmer. PHYSTAT-LHC. Published as CERN Yellow-book CERN-2008-001 </a></li>
@@ -162,6 +147,7 @@ L. Fleysher, et. al. [physics/0306146]</a></li>
 <li><a href="http://www.slac.stanford.edu/spires/find/hep/www?irn=5567122">Tests of statistical significance and background estimation in gamma-ray air shower experiments.
 Roman Fleysher, et. al. Astrophys.J.603:355-362,2004.</a></li>
 </ul>
+-->
 
 </div>
 
@@ -177,14 +163,15 @@ Brookhaven National Lab in the development of one part of a new
 inner-detector, focusing on aspects of the support structure, supply 
 of power, cooling, and tests of performance.
   </p>
-
+<!--
 <ul>
  <li><a href="http://www.slac.stanford.edu/spires/find/hep/www?irn=6453872">Potential for Higgs physics at the LHC and super-LHC.
 K. Cranmer. Snowmass, 2005 </a></li>
 </ul>
-
+-->
 </div>
 
+<!--
 <br clear="all" />
 
 <div id="topic">
@@ -203,6 +190,6 @@ Influence on Timing Properties of Thin Gap Chambers",
 Nucl. Inst. Meth. Phys. <u>A410</u>, 159 (1998)</li>
 </ul>
 </div>
-
+-->
 
 </div>
