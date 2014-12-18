@@ -13,8 +13,14 @@ Our primary focus is the <a href="history.html#atlas">ATLAS</a> experiment
 at the <a href="http://lhc.web.cern.ch/lhc/">Large Hadron Collider</a>.  
 We recently hired a Andy Haas, our group's fourth faculty member and a Catrin Bernius, a post-doctoral research associate. Our group has have several [key roles in ATLAS](tag/honors.html).  
 
+<div class="jumbotron">
+  <p>Interested in graduate studies in physics at NYU?</p>
+  <p><a class="btn btn-primary btn-lg" href="http://physics.as.nyu.edu/page/graduate" role="button">Learn more</a></p>
+</div>
+<!--
 **Interested in applying to NYU for graduate studies in physics?**
 [More here](http://physics.as.nyu.edu/page/graduate)
+-->
 
 In addition to our work on ATLAS, we are also key contributors to the 
 <a href="history.html#apex">APEX</a> experiment at Jefferson Lab, 

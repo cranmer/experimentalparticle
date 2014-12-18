@@ -39,15 +39,15 @@ MENUITEMS = (('People','group.html'),
 			('Blog','category/blog.html'),)
 
 # Blogroll
-LINKS =  (('NYU Physics Department','http://physics.as.nyu.edu/page/home'),
-		('About the graduate program','http://physics.as.nyu.edu/page/graduate'),
+LINKS =  (('NYU Physics','http://physics.as.nyu.edu/page/home'),
+		#('About the graduate program','http://physics.as.nyu.edu/page/graduate'),
 		('The ATLAS Experiment','http://atlas.web.cern.ch'), 
 		('Center for Cosmology & Particle Physics','http://cosmo.nyu.edu'),
 		('Center for Data Science','http://cds.nyu.edu'),
-		('Overview of our group','overview.html'),
-		('NYU on Milagro', 'milagro.html'),
-		('NYU on ATLAS','atlas.html'),
-		('NYU group history', 'history.html'),
+		#('Overview of our group','overview.html'),
+		#('NYU on Milagro', 'milagro.html'),
+		#('NYU on ATLAS','atlas.html'),
+		#('NYU group history', 'history.html'),
 		('RECAST','http://recast.perimeterinstitute.ca'),
 		('HiggsHunters', 'http://HiggsHunters.org')
 		)
