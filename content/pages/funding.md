@@ -13,6 +13,7 @@ The NYU experimental particle physics group is supported in part by a grant from
 <br clear="all">
 
 * PHY-1404408 5/6/14 - 4/30/15 "Searches for New Physics with the ATLAS Experiment at the LHC" (Haas)
+* PHY-1402964 7/15/14 - 6/30/17 "Studies of Higgs Boson Properties and Search for New Physics with ATLAS" (Konoplich, Manhattan College)
 * PHY-1205376 6/15/12-5/31/15 "Elementary Particle Physics with ATLAS" (Cranmer, Mincer, Nemethy)
 * PHY-0955626￼CAREER , 2009-2015 (Cranmer)
 * PHY-0854724 9/1/09-8/31/12 "Elementary Particle Physics with ATLAS" (Cranmer, Mincer, Nemethy)

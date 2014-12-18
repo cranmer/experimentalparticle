@@ -75,7 +75,22 @@ Peter Nemethy</a>,  Professor
 </div>
 
 - - - 
+<h2>Visiting Scholar</h2>
 
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/rostislav.konoplich.jpg" /></div>
+  <div class="col-md-8"><a href="http://www.manhattan.edu/academics/science/physics/faculty/rostislav.konoplich.shtml">Rostislav Konoplich</a>,  Professor of Physics at Manhattan College
+<br />
+  Interests: ATLAS: Higgs physics, Supersymmetry searches and measurements;  Elementary particle phenomenology; astrophysics.<br />
+  Publications: <a href="http://inspirehep.net/search?p=author%3AR.V.Konoplich.1">INSPIRE</a> | 
+<a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=konoplich&amp;sc=1">CERN</a><br />
+
+  Presentations: <a href="http://indicosearch.cern.ch/search?p=Konoplich&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
+  
+  </div>
+</div>
+
+- - - 
 
 <h2>Research Scientists and Research Associates</h2>
 
@@ -111,22 +126,6 @@ Benjamin Kaplan, Research Scientist
 
 - - - 
 
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/rostislav.konoplich.jpg" /></div>
-  <div class="col-md-8"><a href="http://www.manhattan.edu/academics/science/physics/faculty/rostislav.konoplich.shtml">Rostislav Konoplich</a>,  Professor of Physics at Manhattan College
-<br />
-  Interests: ATLAS: Higgs physics, Supersymmetry searches and measurements;  Elementary particle phenomenology; astrophysics.<br />
-  Publications: <a href="http://inspirehep.net/search?p=author%3AR.V.Konoplich.1">INSPIRE</a> | 
-<a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=konoplich&amp;sc=1">CERN</a><br />
-
-  Presentations: <a href="http://indicosearch.cern.ch/search?p=Konoplich&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
-  
-  </div>
-</div>
-
-
-
-- - - 
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/Chris.jpg" /></div>

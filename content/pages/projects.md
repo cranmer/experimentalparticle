@@ -5,7 +5,7 @@ Authors: Kyle Cranmer
 Summary: 
 
 
-<script src="/theme/js/holder.js"></script>
+<script src="theme/js/holder.js"></script>
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="3000">
   <!-- Indicators -->

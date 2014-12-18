@@ -8,7 +8,7 @@ Summary:
 <div id="content">
 <h1>NYU participation in ATLAS</h1>
 
-<p>The ATLAS experiment at the CERN Large Hqadron Collider (LHC) is a
+<p>The ATLAS experiment at the CERN Large Hadron Collider (LHC) is a
 collaboration of 3000 physicists from 174 universities and laboratories 
 in 38 countries. The goal of the the experiment is to study the fundamental 
 building blocks of matter by studying high energy collisions of protons and
@@ -26,7 +26,17 @@ activities.</p>
   <h2>Higgs Searches</h2>
   <img src="./images/atlas/higgs_potential_small.jpg">
   <p>
-    Professor Cranmer has been active in ATLAS Higgs searches for several years, focusing primarily on low-mass Higgs searches through the Vector Boson Fusion (VBF) mechanism.  The low-mass range is preferred by precision electro-weak measurements and supersymmetric scenarios.  In particular, Higgs decaying to tau leptons is a promising channel.  Cranmer is the convenor of the US-ATLAS Higgs analysis forum.  Akira Shibata and two prospective graduate students, George Lewis and Jordan Ziegler, are joining the effort.  We also keep close contact with our theorist colleagues in the <a href="http://cosmo.nyu.edu/index.html">CCPP</a> about <a href="http://www.slac.stanford.edu/spires/find/hep/www?rawcmd=find+a+weiner+and+chang&FORMAT=WWW&SEQUENCE=">non-standard Higgs models</a>.
+    Professor Cranmer has been active in ATLAS Higgs searches for several years, focusing primarily on low-mass Higgs searches, $H\to ZZ\to 4\ell$, and the statistical combination of all the search channels.
+    The statistical combination allows for measurements of the Higgs couplings and other properties.
+    Sven Kreiss recently defended his thesis "Higgs Boson Discovery and First Property Measurements with the $H\to ZZ^* \to 4\ell$ Channel and the Combination" based on this research.
+  </p>
+  <p>
+    Cranmer is also interested in exotic Higgs decays. Under his supervision, James Beacham recently defended his thesis "Exotic Higgs, Rare Z, and a Dark Photon: Searching for New Physics at the LHC, LEP, and Jefferson Lab"
+  </p>
+  <p>
+    Professor Haas has been focusing for exotic decays of the Higgs and using the Higgs as a tag for new physics.
+    Haas leads the effort in the NMSSM Higgs searches and has advised graduate student Karthik Krishnaiyengar in 
+    an exotic Higgs decay to neutralinos and photons.
   </p>
 
 </div>
