@@ -14,6 +14,7 @@ Summary:
     <li data-target="#carousel-example-generic" data-slide-to="1"></li>
     <li data-target="#carousel-example-generic" data-slide-to="2"></li>
     <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="4"></li>
   </ol>
 
   <!-- Wrapper for slides -->
@@ -36,6 +37,16 @@ Summary:
       <div class="carousel-caption">
         <a href="apex.html"><h1>APEX</h1></a>
         <p>Dark photons</p>
+      </div>
+    </div>
+    <div class="item">
+      <!--
+      <img data-src="holder.js/700x300/auto/#666:#444/text:APEX" alt="APEX">
+      -->
+      <img src="images/aleph-carousel.png" alt="...">
+      <div class="carousel-caption">
+        <h1>APEX</h1>
+        <p>Exotic Higgs with archived data</p>
       </div>
     </div>
     <div class="item">
