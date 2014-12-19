@@ -1,8 +1,7 @@
 Title: Research Projects
 date: 2014-03-21 10:53
+Author: Kyle Cranmer
 save_as: research.html
-Authors: Kyle Cranmer
-Summary: 
 
 
 <script src="theme/js/holder.js"></script>
@@ -15,54 +14,87 @@ Summary:
     <li data-target="#carousel-example-generic" data-slide-to="2"></li>
     <li data-target="#carousel-example-generic" data-slide-to="3"></li>
     <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="5"></li>
   </ol>
 
   <!-- Wrapper for slides -->
+  <style>.carousel-inner > .item > img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+  }
+  </style>
+
   <div class="carousel-inner" role="listbox">
-    <div class="item active">
+    <div class="item active" >
       <!--
       <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
       -->
-      <img src="images/atlas-famous-carousel.jpeg" alt="...">
+      <a href="atlas.html">
+      <img src="images/atlas-famous-carousel.jpeg" alt="..." >
       <div class="carousel-caption">
-        <a href="atlas.html"><h1>ATLAS</h1> </a>
+        <h1>ATLAS</h1> 
         <p>The energy frontier</p>
       </div>
+      </a>
     </div>
     <div class="item">
       <!--
       <img data-src="holder.js/700x300/auto/#666:#444/text:APEX" alt="APEX">
       -->
+      <a href="crayfis.html">
+        <img src="images/crayfis-logo-carousel.png" alt="...">
+      </a>
+      <!--
+      <div class="carousel-caption">
+          <h1>CRAYFIS</h1></a>
+        <p>Cosmic Rays found in smart phones</p>
+      </div>
+      -->
+    </div>
+    <div class="item">
+      <!--
+      <img data-src="holder.js/700x300/auto/#666:#444/text:APEX" alt="APEX">
+      -->
+      <a href="apex.html">
       <img src="images/APEX-expt-carousel.png" alt="...">
       <div class="carousel-caption">
-        <a href="apex.html"><h1>APEX</h1></a>
+        <h1>APEX</h1>
         <p>Dark photons</p>
       </div>
+      </a>
     </div>
     <div class="item">
       <!--
       <img data-src="holder.js/700x300/auto/#666:#444/text:APEX" alt="APEX">
       -->
+      <a href="aleph.html">
       <img src="images/aleph-carousel.jpg" alt="...">
       <div class="carousel-caption">
         <h1>ALEPH</h1>
         <p>Exotic Higgs with archived data</p>
       </div>
+      </a>
     </div>
     <div class="item">
+      <a href="milagro.html">
       <img src="images/milagro-localized-carousel.png" alt="...">
       <!--      <img data-src="holder.js/700x300/auto/#666:#444/text:Milagro" alt="Milagro"> -->
       <div class="carousel-caption">
-        <a href="milagro.html"><h1>Milagro</h1> </a>
+        <h1>Milagro</h1> 
         <p>Ultra High Energy Cosmic Rays</p>
       </div>
+      </a>
     </div>
     <div class="item">
+      <a href="history.html">
       <img data-src="holder.js/700x300/auto/#666:#555/text:History" alt="History">
       <div class="carousel-caption">
-        <a href="history.html"><h1>History</h1> </a>
+        <h1>History</h1> 
         <p>The NYU group's history</p>
       </div>
+      </a>
     </div>
   </div>
 
@@ -76,12 +108,4 @@ Summary:
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-<!--
-<script>
-$('.carousel').carousel({
-  interval: 200;
-})
-</script>
--->
 

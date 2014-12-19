@@ -4,8 +4,6 @@ Author: Kyle Cranmer
 save_as: outreach.html
 
 
-
-
   <h2>Citizen Science at HiggsHunters.org</h2>
 
 Andy Haas from NYU and Alan Baar from the University of Oxford have released <a href="http://www.higgshunters.org">higgshunters.org</a>, the first particle physics venture on <a href="https://www.zooniverse.org">Zooniverse</a>, and featuring real events from ATLAS.  
