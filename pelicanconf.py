@@ -32,11 +32,11 @@ DISPLAY_TAGS_ON_SIDEBAR=True
 DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
 
 
-MENUITEMS = (('People','/group.html'),
-			('Research','/research.html'),
-			('Funding','/funding.html'),
-			('Media & Outreach','/outreach.html'),
-			('Blog','/category/blog.html'),)
+MENUITEMS = (('People','http://physics.nyu.edu/experimentalparticle/group.html'),
+			('Research','http://physics.nyu.edu/experimentalparticle/research.html'),
+			('Funding','http://physics.nyu.edu/experimentalparticle/funding.html'),
+			('Media & Outreach','http://physics.nyu.edu/experimentalparticle/outreach.html'),
+			('Blog','http://physics.nyu.edu/experimentalparticle/category/blog.html'),)
 
 # Blogroll
 LINKS =  (('NYU Physics','http://physics.as.nyu.edu/page/home'),
