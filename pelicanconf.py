@@ -75,6 +75,8 @@ EXTRA_HEADER = open('twitter_card.html').read().decode('utf-8')
 STATIC_PATHS = ['images', 'images/med', 'downloads', 'downloads/notebooks',
                 'downloads/files','downloads/code', 'favicon.png']
 
+READERS = {'html': None}
+
 CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'
 
