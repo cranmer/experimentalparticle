@@ -146,10 +146,10 @@ Christopher Musso </a>, Staff
 
 
 <div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/lukas.jpg" /></div>
+  <div class="col-md-4"><img width="100%" src="./images/lukas-new.jpg" /></div>
   <div class="col-md-8">Lukas Heinrich
 <br />
-  Interests: ATLAS, SUSY searches, trigger and analysis software <br />
+  Interests: ATLAS, SUSY searches, Recast and analysis preservation, trigger and analysis software <br />
 <br />
 <a href="http://twitter.com/lukasheinrich_"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
   </div>
@@ -161,12 +161,28 @@ Christopher Musso </a>, Staff
   <div class="col-md-4"><img width="100%" src="./images/kohani.shahab.jpg" /></div>
   <div class="col-md-8">Shahab Kohani 
 <br />
-    Interests- tracking detectors.
+    Interests: tracking detectors.
  <br />
   </div>
 </div>
 
+
 - - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/colleen.jpg" /></div>
+  <div class="col-md-8">Colleen Treado 
+<br />
+    Interests: SUSY Searches
+ <br />
+  </div>
+</div>
+
+
+
+<!--          -->
+<h2>Former Graduate Students </h2>
+
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/Karthik.JPG" /></div>
@@ -182,16 +198,11 @@ Christopher Musso </a>, Staff
   <div class="col-md-4"><img width="100%" src="./images/neves.ricardo.jpg" /></div>
   <div class="col-md-8">Ricardo Neves
 <br />
-  Interests: ATLAS, trigger, top physics. <br />
+  Interests: ATLAS, SUSY Searches, trigger. <br />
   </div>
 </div>
 
 - - - 
-
-
-<!--          -->
-<h2>Former Graduate Students </h2>
-
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/Sven.jpg" /></div>
