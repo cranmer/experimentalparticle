@@ -32,7 +32,7 @@ save_as: group.html
   <div class="col-md-8"><a href="http://physics.as.nyu.edu/object/AndyHaas.html">Andy Haas</a>,  Assistant Professor 
 <br />
   Interests: ATLAS, SUSY / Exotic searches (lepton-jets, new long-lived particles, etc.), Simulation software, Data acquisition. <br />
-  Papers: <a href="http://inspirehep.net/search?p=author%3AA.Haas.3">INSPIRE</a><br />
+  Papers: <a href="https://inspirehep.net/search?p=exactauthor%3AAndrew.C.Haas.1&sf=earliestdate">INSPIRE</a><br />
   Presentations: <a href="https://indico.cern.ch/search.py?categId=0&p=haas%2C+andrew&f=&collections=Contributions&startDate=&endDate=&sortField=&sortOrder=d">ATLAS</a>
   <br />
   <a href="http://twitter.com/AndyColtonHaas"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
@@ -48,7 +48,7 @@ save_as: group.html
 Allen I. Mincer</a>,  Professor 
 <br />
   Interests: ATLAS: Supersymmetry searches, MissingET triggers; MILAGRO. <br />
-  Publications: <a href="http://inspirehep.net/search?p=author%3AA.Mincer.1">INSPIRE</a> | 
+  Publications: <a href="http://inspirehep.net/search?ln=en&ln=en&p=author%3AAllen.I.Mincer.1&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0">INSPIRE</a> | 
 <a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=mincer&amp;sc=1">CERN</a><br />
 
   Presentations: <a href="http://indicosearch.cern.ch/search?p=mincer&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
@@ -95,6 +95,22 @@ Peter Nemethy</a>,  Professor
 <h2>Research Scientists and Research Associates</h2>
 
 <div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/SmileyFace.jpg" /></div>
+  <div class="col-md-8">
+Cyril Becot, Research Scientist 
+<br />
+  Interests: ATLAS, Higgs precision measurements,  searches. <br />
+  Publications: <a href="http://inspirehep.net/search?p=author%3AC.Becot.1">INSPIRE</a> | 
+<a href="https://cdsweb.cern.ch/search?ln=en&sc=1&p=becot%2C+cyril&f=author&action_search=Search&c=Articles+%26+Preprints&c=Books+%26+Proceedings&c=Presentations+%26+Talks&c=Periodicals+%26+Progress+Reports&c=Multimedia+%26+Outreach">CERN</a><br />
+
+  Presentations: <a href="http://indicosearch.cern.ch/search?p=Cyril+Becot&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
+ 
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
   <div class="col-md-4"><img width="100%" src="./images/catrin-smaller.jpg" /></div>
   <div class="col-md-8">
 Catrin Bernius, Research Scientist 
@@ -124,6 +140,23 @@ Benjamin Kaplan, Research Scientist
   </div>
 </div>
 
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/glouppe.jpg" /></div>
+  <div class="col-md-8">
+Gilles Louppe, Research Scientist and Moore-Sloan Data Science Fellow
+<br />
+  Interests: Machine learning, likelihood free inference, scientific software. <br />
+  Publications: <a href="https://scholar.google.be/citations?hl=fr&user=F_77d4QAAAAJ">Google Scholar</a> | 
+<a href="http://orcid.org/0000-0002-2082-3106">ORCID</a><br />
+<a href="https://glouppe.github.io/#publications">Personal homepage</a> <br />
+<a href="https://twitter.com/glouppe"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
+<a href="https://github.com/glouppe"><i class="fa fa-github-square fa-lg"></i> github</a>
+
+ 
+  </div>
+</div>
 - - - 
 
 
@@ -189,6 +222,7 @@ Christopher Musso </a>, Staff
   <div class="col-md-8">Karthik Krishnaiyengar
 <br />
   Interests: ATLAS, SUSY searches. <br />
+  Went on to: Chase bank
   </div>
 </div>
 
@@ -199,6 +233,7 @@ Christopher Musso </a>, Staff
   <div class="col-md-8">Ricardo Neves
 <br />
   Interests: ATLAS, SUSY Searches, trigger. <br />
+  Went on to: Data Scientist at KPMG
   </div>
 </div>
 
