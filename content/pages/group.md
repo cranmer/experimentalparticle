@@ -16,7 +16,7 @@ save_as: group.html
 
   Presentations: <a href="http://indicosearch.cern.ch/search?p=cranmer&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a> <br />
 <a href="https://en.wikipedia.org/wiki/Kyle_Cranmer">Wikipedia</a> <br />
-<a href="http://impactstory.org/KyleCranmer">ImpactStory</a> <br />
+<a href="https://impactstory.org/u/0000-0002-5769-7094">ImpactStory</a> <br />
 <a href="http://orcid.org/0000-0002-5769-7094">ORCID : 0000-0002-5769-7094</a> <br />
 <a href="http://theoryandpractice.org">Personal homepage</a> <br />
 <a href="http://twitter.com/kylecranmer"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
