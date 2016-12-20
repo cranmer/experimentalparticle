@@ -15,6 +15,8 @@ save_as: research.html
     <li data-target="#carousel-example-generic" data-slide-to="3"></li>
     <li data-target="#carousel-example-generic" data-slide-to="4"></li>
     <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="6"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="7"></li>
   </ol>
 
   <!-- Wrapper for slides -->
@@ -38,6 +40,32 @@ save_as: research.html
         <p>The energy frontier</p>
       </div>
       </a>
+    </div>
+    <div class="item">
+      <!--
+      <img data-src="holder.js/700x300/auto/#666:#444/text:APEX" alt="APEX">
+      -->
+      <a href="https://arxiv.org/pdf/1607.04669v1.pdf">
+        <img src="images/milliQan-carousel.png" alt="milliQan">
+      </a>
+      <div class="carousel-caption">
+          <h1>milliQan</h1></a>
+        <p>Search for milli-charged particles</p>
+      </div>
+      <!---
+      -->
+    </div>
+    <div class="item">
+      <!--
+      <img data-src="holder.js/700x300/auto/#666:#444/text:APEX" alt="APEX">
+      -->
+      <a href="nips2016.html">
+        <img src="images/jet-embedding.png" alt="...">
+      </a>
+      <div class="carousel-caption">
+          <h1>Machine Learning & Statistics</h1></a>
+        <p>Getting the most from our data</p>
+      </div>
     </div>
     <div class="item">
       <!--
