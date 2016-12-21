@@ -33,6 +33,11 @@ HAWC experiment, and
 were involved in the <a href="history.html#meco">MECO</a> experiment before its termination.  Please have a look at our <a href="group.html">group</a>.
 
 
+<h1>ATLAS Week at NYU</h1>
+<a href="images/atlas-week-group-IMG_7192.JPG">
+<img src="images/atlas-week-group-IMG_7192-smaller.jpeg" widht="50%" alt="The new physics department in 726 Broadway" />
+</a>
+
 <h1>Our new space in 726 Broadway</h1>
 <img src="images/staircase726.jpg" widht="50%" alt="The new physics department in 726 Broadway" />
 
