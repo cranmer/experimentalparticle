@@ -108,21 +108,6 @@ Cyril Becot, Research Scientist
   </div>
 </div>
 
-- - - 
-
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/catrin-smaller.jpg" /></div>
-  <div class="col-md-8">
-Catrin Bernius, Research Scientist 
-<br />
-  Interests: ATLAS, multileptons, supersymmetry searches. <br />
-  Publications: <a href="http://inspirehep.net/search?p=author%3Ac.Bernius.1">INSPIRE</a> | 
-<a href="https://cdsweb.cern.ch/search?ln=en&sc=1&p=bernius%2C+catrin&f=author&action_search=Search&c=Articles+%26+Preprints&c=Books+%26+Proceedings&c=Presentations+%26+Talks&c=Periodicals+%26+Progress+Reports&c=Multimedia+%26+Outreach">CERN</a><br />
-
-  Presentations: <a href="http://indicosearch.cern.ch/search?p=Catrin+Bernius&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
- 
-  </div>
-</div>
 
 - - - 
 
@@ -364,6 +349,21 @@ Icahn School of Medicine, Mount Sinai
 <h2>Former Research Scientists and Research Associates </h2>
 
 
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/catrin-smaller.jpg" /></div>
+  <div class="col-md-8">
+Catrin Bernius, Research Scientist 
+<br />
+  Interests: ATLAS, multileptons, supersymmetry searches. <br />
+  Publications: <a href="http://inspirehep.net/search?p=author%3Ac.Bernius.1">INSPIRE</a> | 
+<a href="https://cdsweb.cern.ch/search?ln=en&sc=1&p=bernius%2C+catrin&f=author&action_search=Search&c=Articles+%26+Preprints&c=Books+%26+Proceedings&c=Presentations+%26+Talks&c=Periodicals+%26+Progress+Reports&c=Multimedia+%26+Outreach">CERN</a><br />
+
+  Presentations: <a href="http://indicosearch.cern.ch/search?p=Catrin+Bernius&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
+ 
+  </div>
+</div>
+
+- - - 
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/Kirill.jpg" /></div>
