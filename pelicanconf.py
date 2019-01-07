@@ -32,11 +32,11 @@ DISPLAY_TAGS_ON_SIDEBAR=True
 DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
 
 
-MENUITEMS = (('People','http://physics.nyu.edu/experimentalparticle/group.html'),
-			('Research','http://physics.nyu.edu/experimentalparticle/research.html'),
-			('Funding','http://physics.nyu.edu/experimentalparticle/funding.html'),
-			('Media & Outreach','http://physics.nyu.edu/experimentalparticle/outreach.html'),
-			('Blog','http://physics.nyu.edu/experimentalparticle/category/blog.html'),)
+MENUITEMS = (('People','https://physics.nyu.edu/experimentalparticle/group.html'),
+			('Research','https://physics.nyu.edu/experimentalparticle/research.html'),
+			('Funding','https://physics.nyu.edu/experimentalparticle/funding.html'),
+			('Media & Outreach','https://physics.nyu.edu/experimentalparticle/outreach.html'),
+			('Blog','https://physics.nyu.edu/experimentalparticle/category/blog.html'),)
 
 # Blogroll
 LINKS =  (('NYU Physics','http://physics.as.nyu.edu/page/home'),
@@ -81,14 +81,15 @@ CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'
 
 
-PLUGIN_PATH = '../../pelican-plugins/'
+PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
 			'liquid_tags.youtube', 'render_math',
            'liquid_tags.include_code', 'liquid_tags.notebook',
            'liquid_tags.literal']
 
 
-THEME = 'pelican-bootstrap3'
+#THEME = 'pelican-bootstrap3'
+THEME = 'pelican-themes/pelican-bootstrap3'
 #THEME = 'notmyidea'
 PYGMENTS_STYLE='default'
 #PYGMENTS_STYLE='friendly'
