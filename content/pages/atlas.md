@@ -48,7 +48,7 @@ activities.</p>
   <img src="./images/atlas/Trigger_small.png">
   <p>
 The NYU group is working on various aspects of the ATLAS trigger, which selects 
-about 1 in a million proton proton interactions for furrther study. 
+about 1 in a million proton proton interactions for further study. 
 
 The Missing Transverse Energy (MET) part of the High Level Trigger (HLT). MET, 
 which measures an imbalance of momentum in the plane transverse to the particle 
@@ -58,9 +58,17 @@ natural trigger component for us to study given our group's interest in the
 search for supersymmetry. Some of the possible sources of fake MET, such as 
 mismeasurement of jet energies in QCD jet events, can be many orders of magnitude 
 more frequent than SUSY events, thus putting severe constraints on the MET trigger.
+The NYU group and Professor Mincer have been involved in the ATLAS high-level MET trigger since the 
+NYU group first implemented it for LHC Run I. 
 Several members of our group have held leadership positions on MET, and most 
 members of our group have contributed to the trigger in general and/or the MET 
 trigger. 
+
+Some recent relevant notes:
+<li><a href="http://cdsweb.cern.ch/record/2311730">
+"Performance of the ATLAS global transverse-momentum triggers at sqt(s) = 8 TeV." </a></li>
+<li><a href="https://cds.cern.ch/record/2292378">
+"Analytical description of missing transverse-momentum trigger rates in ATLAS with sqrt(s) = 7 and 8 TeV." </a></li>
 
 <!--
 Some representative trigger-related publications include:
@@ -168,10 +176,7 @@ Roman Fleysher, et. al. Astrophys.J.603:355-362,2004.</a></li>
   <h2>LHC Upgrade</h2>
   <img src="./images/atlas/SLHC_small.png">
   <p>
-    While the LHC is just starting, we are already thinking about an LHC upgrade: the Super-LHC.  The Super-LHC would use the same tunnel that exists at CERN now, but it would have 10 times the luminosity.  This extremely high luminosity environment poses several detector, triggering, and data acquisition challenges.  Allen Mincer, Chris Musso, and Peter Nemethy are collaborating with 
-Brookhaven National Lab in the development of one part of a new 
-inner-detector, focusing on aspects of the support structure, supply 
-of power, cooling, and tests of performance.
+    While the LHC is just starting, we are already thinking about an LHC upgrade: the Super-LHC.  The Super-LHC would use the same tunnel that exists at CERN now, but it would have 10 times the luminosity.  This extremely high luminosity environment poses several detector, triggering, and data acquisition challenges. 
   </p>
 <!--
 <ul>

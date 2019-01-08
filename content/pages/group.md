@@ -61,7 +61,7 @@ Allen I. Mincer</a>,  Professor
 - - - 
 
 <div class="row">
-  <div class="col-md-4"><img width="100%" src="http://physics.as.nyu.edu/props/IO/2812/42/nemethy.peter.jpg" /></div>
+  <div class="col-md-4"><img width="100%" src="./images/nemethy.jpg" /></div>
   <div class="col-md-8"><a href="http://www.physics.as.nyu.edu/object/PeterNemethy.html">
 Peter Nemethy</a>,  Professor 
 <br />
@@ -81,7 +81,7 @@ Peter Nemethy</a>,  Professor
   <div class="col-md-4"><img width="100%" src="./images/rostislav.konoplich.jpg" /></div>
   <div class="col-md-8"><a href="http://www.manhattan.edu/academics/science/physics/faculty/rostislav.konoplich.shtml">Rostislav Konoplich</a>,  Professor of Physics at Manhattan College
 <br />
-  Interests: ATLAS: Higgs physics, Supersymmetry searches and measurements;  Elementary particle phenomenology; astrophysics.<br />
+  Interests: ATLAS; Higgs physics, Supersymmetry searches and measurements;  Elementary particle phenomenology; astrophysics.<br />
   Publications: <a href="http://inspirehep.net/search?p=author%3AR.V.Konoplich.1">INSPIRE</a> | 
 <a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=konoplich&amp;sc=1">CERN</a><br />
 
@@ -95,68 +95,32 @@ Peter Nemethy</a>,  Professor
 <h2>Research Scientists and Research Associates</h2>
 
 <div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/SmileyFace.jpg" /></div>
-  <div class="col-md-8">
-Cyril Becot, Research Scientist 
+  <div class="col-md-4"><img width="100%" src="./images/Johann.jpeg" /></div>
+  <div class="col-md-8">Johann Brehmer, Research Scientist
 <br />
-  Interests: ATLAS, Higgs precision measurements,  searches. <br />
-  Publications: <a href="http://inspirehep.net/search?p=author%3AC.Becot.1">INSPIRE</a> | 
-<a href="https://cdsweb.cern.ch/search?ln=en&sc=1&p=becot%2C+cyril&f=author&action_search=Search&c=Articles+%26+Preprints&c=Books+%26+Proceedings&c=Presentations+%26+Talks&c=Periodicals+%26+Progress+Reports&c=Multimedia+%26+Outreach">CERN</a><br />
+  Interests: Effective Field Theory, Likelihood-free Inference, Machine Learning <br />
+  Publications: <a href="http://inspirehep.net/author/profile/J.Brehmer.1">INSPIRE</a> |
+<a href="https://scholar.google.com/citations?user=ZdUMvCsAAAAJ&hl=en&oi=ao">Google Scholar</a><br /> | <a href="https://orcid.org/0000-0003-3344-4209">ORCID : 0000-0003-3344-4209</a>  
+<br /> 
+Code: <a href="https://github.com/johannbrehmer">GitHub</a><br />
 
-  Presentations: <a href="http://indicosearch.cern.ch/search?p=Cyril+Becot&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
- 
-  </div>
-</div>
-
-
-- - - 
-
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/Kaplan_0.jpg" /></div>
-  <div class="col-md-8">
-Benjamin Kaplan, Research Scientist
-<br />
-  Interests: ATLAS, multileptons, supersymmetry searches. <br />
-  Publications: <a href="http://inspirehep.net/search?p=author%3AB.Kaplan.1">INSPIRE</a> | 
-<a href="https://cdsweb.cern.ch/search?ln=en&sc=1&p=kaplan%2C+benjamin&f=author&action_search=Search&c=Articles+%26+Preprints&c=Books+%26+Proceedings&c=Presentations+%26+Talks&c=Periodicals+%26+Progress+Reports&c=Multimedia+%26+Outreach">CERN</a><br />
-
-  Presentations: <a href="https://indico.cern.ch/search.py?categId=0&p=benjamin+kaplan&f=author&collections=&startDate=&endDate=&sortField=&sortOrder=d">ATLAS</a>
- 
   </div>
 </div>
 
 - - - 
 
 <div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/glouppe.jpg" /></div>
-  <div class="col-md-8">
-Gilles Louppe, Research Scientist and Moore-Sloan Data Science Fellow
+  <div class="col-md-4"><img width="100%" src="./images/Manfredi.jpg" /></div>
+  <div class="col-md-8">Manfredi Ronzani, Research Scientist
 <br />
-  Interests: Machine learning, likelihood free inference, scientific software. <br />
-  Publications: <a href="https://scholar.google.be/citations?hl=fr&user=F_77d4QAAAAJ">Google Scholar</a> | 
-<a href="http://orcid.org/0000-0002-2082-3106">ORCID</a><br />
-<a href="https://glouppe.github.io/#publications">Personal homepage</a> <br />
-<a href="https://twitter.com/glouppe"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
-<a href="https://github.com/glouppe"><i class="fa fa-github-square fa-lg"></i> github</a>
+  Interests: ATLAS: Supersymmetry, exotics, MET trigger. <br />
+  Publications: <a href="http://inspirehep.net/search?p=author%3AM.Ronzani.1">INSPIRE</a> |
+<a href="https://cdsweb.cern.ch/search?ln=en&p=ronzani%2C+manfredi&f=author&action_search=Search&c=CERN+Document+Server&sf=&so=d&rm=&rg=10&sc=1&of=hb">CERN</a><br />
 
- 
+  Presentations: <a href="https://indico.cern.ch/search.py?categId=0&p=manfredi+ronzani&f=&collections=&startDate=&endDate=&sortField=&sortOrder=d">ATLAS</a> <br />
+
   </div>
 </div>
-- - - 
-
-
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/Chris.jpg" /></div>
-  <div class="col-md-8"><a href="http://www.physics.nyu.edu/people/musso.christopher.html">
-Christopher Musso </a>, Staff
-<br />
-  Interests: ATLAS: Instrumentation and LHC upgrade. <br />
- 
-  </div>
-</div>
-
-- - - 
-
 
 
 <h2>Graduate Students</h2>
@@ -176,18 +140,6 @@ Christopher Musso </a>, Staff
 - - - 
 
 <div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/kohani.shahab.jpg" /></div>
-  <div class="col-md-8">Shahab Kohani 
-<br />
-    Interests: tracking detectors.
- <br />
-  </div>
-</div>
-
-
-- - - 
-
-<div class="row">
   <div class="col-md-4"><img width="100%" src="./images/colleen.jpg" /></div>
   <div class="col-md-8">Colleen Treado 
 <br />
@@ -196,17 +148,44 @@ Christopher Musso </a>, Staff
   </div>
 </div>
 
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Irina.jpeg" /></div>
+  <div class="col-md-8">Irina Espejo Morales
+<br />
+    Interests: Data Science, Physics
+ <br />
+  </div>
+</div>
 
 
 <!--          -->
 <h2>Former Graduate Students </h2>
 
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/kohani.shahab.jpg" /></div>
+  <div class="col-md-8">Shahab Kohani
+<br />
+    Interests: tracking detectors.
+ <br />
+    Thesis: "3D Trench Detectors for Charged Particle Tracking and Photon Science Applications", 2018 
+< br />
+    Went on to: postdoc at the University of Hawaii  
+<br />   
+  </div>
+</div>
+
+
+- - -
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/Karthik.JPG" /></div>
   <div class="col-md-8">Karthik Krishnaiyengar
 <br />
   Interests: ATLAS, SUSY searches. <br />
+  Thesis: "Search for Higgs boson decays to neutralinos and gravitinos using the ATLAS detector", 2015
+  <br />
   Went on to: Chase bank
   </div>
 </div>
@@ -218,6 +197,7 @@ Christopher Musso </a>, Staff
   <div class="col-md-8">Ricardo Neves
 <br />
   Interests: ATLAS, SUSY Searches, trigger. <br />
+  Thesis: "Study of the Transverse Energy Sum Triggers and Leptonic Background Reduction in Searches for Supersymmetry in Fully Hadronic Multijet Events at the ATLAS Experiment”, 2015 <br />
   Went on to: Data Scientist at KPMG
   </div>
 </div>
@@ -231,6 +211,9 @@ Christopher Musso </a>, Staff
   Interests: ATLAS, Higgs searches, top physics, statistical tools. <br />
 <br />
 <a href="http://svenkreiss.com/">personal page</a><br />
+Thesis: "Higgs Boson Discovery and First Property Measurements with the H -> ZZ -> 4l
+ Channel and the Combination", 2014
+<br />
 Went on to: data scientist at Wild Card
 <br />
 <a href="http://twitter.com/svenkreiss"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
@@ -250,7 +233,9 @@ James Beacham</a>
 Went on to: post doc in ATLAS group at The Ohio State University 
 <br />
 <a href="http://twitter.com/jbbeacham"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
-
+<br />
+Thesis: "Exotic Higgs, Rare Z, and a Dark Photon: Searching for New Physics at the LHC, LEP, and Jefferson Lab", 2014.
+<br />
   </div>
 </div>
 
@@ -264,6 +249,9 @@ Went on to: post doc in ATLAS group at The Ohio State University
   Went on to: Data Scientist at Tapad
   <br />
 <a href="https://www.linkedin.com/pub/loek-hooft-van-huysduynen/93/464/57"><i class="fa fa-linkedin-square fa-lg"></i> LinkedIn</a>
+  <br />
+Thesis: "Lepton Jets in the ATLAS Experiment", 2014.
+  <br />
   </div>
 </div>
 
@@ -278,7 +266,9 @@ Went on to: post doc in ATLAS group at The Ohio State University
 Went on to: data scientist at <a href="http://www.lenduploans.com">LendUp</a>
 <br />
 <a href="http://twitter.com/HerbieLewis"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
-
+<br />
+Thesis: "Measurements and Searches for New Physics Using Top Quarks at the LHC", 2013
+<br />
   </div>
 </div>
 
@@ -290,7 +280,7 @@ Went on to: data scientist at <a href="http://www.lenduploans.com">LendUp</a>
 <br />
   Thesis: "Physics from the Very-High Energy Cosmic-Ray Shadows of the Moon and
 Sun with Milagro", Milagro, 2011 <br />
-Went on to: post doc at Brown University; now at the International Centre for Security Analysis 
+Went on to: post doc at Brown University; then International Centre for Security Analysis 
 King's College, London
   </div>
 </div>
@@ -348,6 +338,68 @@ Icahn School of Medicine, Mount Sinai
 <!--          -->
 <h2>Former Research Scientists and Research Associates </h2>
 
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Chris.jpg" /></div>
+  <div class="col-md-8"><a href="http://www.physics.nyu.edu/people/musso.christopher.html">
+Christopher Musso </a>, Staff
+<br />
+  Interests: ATLAS: Instrumentation and LHC upgrade. <br />
+<br />
+  Went on to: Staff Member at Brookhaven National Laboratory
+<br />
+  </div>
+</div>
+
+- - -
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/SmileyFace.jpg" /></div>
+  <div class="col-md-8">
+Cyril Becot, Research Scientist
+<br />
+  Interests: ATLAS, Higgs precision measurements,  searches. <br />
+  Publications: <a href="http://inspirehep.net/search?p=author%3AC.Becot.1">INSPIRE</a> |
+<a href="https://cdsweb.cern.ch/search?ln=en&sc=1&p=becot%2C+cyril&f=author&action_search=Search&c=Articles+%26+Preprints&c=Books+%26+Proceedings&c=Presentations+%26+Talks&c=Periodicals+%26+Progress+Reports&c=Multimedia+%26+Outreach">CERN</a><br />
+
+  Presentations: <a href="http://indicosearch.cern.ch/search?p=Cyril+Becot&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
+
+  </div>
+</div>
+
+- - -
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/glouppe.jpg" /></div>
+  <div class="col-md-8">
+Gilles Louppe, Research Scientist and Moore-Sloan Data Science Fellow
+<br />
+  Interests: Machine learning, likelihood free inference, scientific software. <br />
+  Publications: <a href="https://scholar.google.be/citations?hl=fr&user=F_77d4QAAAAJ">Google Scholar</a> |
+<a href="http://orcid.org/0000-0002-2082-3106">ORCID</a><br />
+<a href="https://glouppe.github.io/#publications">Personal homepage</a> <br />
+<a href="https://twitter.com/glouppe"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
+<a href="https://github.com/glouppe"><i class="fa fa-github-square fa-lg"></i> github</a> <br />
+"Measurements and Searches for New Physics Using Top Quarks at the LHC"  Went on to: Associate Professor in artificial intelligence and deep learning at the University of Liège, Belgium
+
+  </div>
+</div>
+- - -
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Kaplan_0.jpg" /></div>
+  <div class="col-md-8">
+Benjamin Kaplan, Research Scientist
+<br />
+  Interests: ATLAS, multileptons, supersymmetry searches. <br />
+  Publications: <a href="http://inspirehep.net/search?p=author%3AB.Kaplan.1">INSPIRE</a> |
+<a href="https://cdsweb.cern.ch/search?ln=en&sc=1&p=kaplan%2C+benjamin&f=author&action_search=Search&c=Articles+%26+Preprints&c=Books+%26+Proceedings&c=Presentations+%26+Talks&c=Periodicals+%26+Progress+Reports&c=Multimedia+%26+Outreach">CERN</a><br />
+
+  Presentations: <a href="https://indico.cern.ch/search.py?categId=0&p=benjamin+kaplan&f=author&collections=&startDate=&endDate=&sortField=&sortOrder=d">ATLAS</a>
+
+  </div>
+</div>
+
+- - -
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/catrin-smaller.jpg" /></div>
@@ -358,7 +410,8 @@ Catrin Bernius, Research Scientist
   Publications: <a href="http://inspirehep.net/search?p=author%3Ac.Bernius.1">INSPIRE</a> | 
 <a href="https://cdsweb.cern.ch/search?ln=en&sc=1&p=bernius%2C+catrin&f=author&action_search=Search&c=Articles+%26+Preprints&c=Books+%26+Proceedings&c=Presentations+%26+Talks&c=Periodicals+%26+Progress+Reports&c=Multimedia+%26+Outreach">CERN</a><br />
 
-  Presentations: <a href="http://indicosearch.cern.ch/search?p=Catrin+Bernius&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
+  Presentations: <a href="http://indicosearch.cern.ch/search?p=Catrin+Bernius&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a> <br />
+  Went on to: Computing Professional at SLAC
  
   </div>
 </div>
