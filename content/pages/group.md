@@ -103,6 +103,7 @@ Peter Nemethy</a>,  Professor
 <a href="https://scholar.google.com/citations?user=ZdUMvCsAAAAJ&hl=en&oi=ao">Google Scholar</a><br /> | <a href="https://orcid.org/0000-0003-3344-4209">ORCID : 0000-0003-3344-4209</a>  
 <br /> 
 Code: <a href="https://github.com/johannbrehmer">GitHub</a><br />
+<a href="https://johannbrehmer.github.io">Personal homepage</a> <br />
 
   </div>
 </div>
