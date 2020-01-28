@@ -10,8 +10,7 @@ Summary:
 The Experimental Particle Physics Group at New York University is thriving!  
 
 Our primary focus is the <a href="history.html#atlas">ATLAS</a> experiment 
-at the <a href="http://lhc.web.cern.ch/lhc/">Large Hadron Collider</a>.  
-Our group has have several [key roles in ATLAS](tag/honors.html).  
+at the <a href="http://lhc.web.cern.ch/lhc/">Large Hadron Collider</a>. We are also active in the development of next-generation analysis tools  and techniques leverating machine learning and data science methodology. Our group has [key roles in ATLAS and IRIS-HEP](tag/honors.html).  
 
 <div class="jumbotron">
   <p>Interested in graduate studies in physics at NYU?</p>

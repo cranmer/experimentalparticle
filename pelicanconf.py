@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'NYU Experimental Particle Group'
 SITENAME = u'EPP @ NYU'
 SITEURL = ''
+SITEURL = 'https://physics.nyu.edu/experimentalparticle'
 
 TIMEZONE = 'America/New_York'
 
@@ -38,6 +39,12 @@ MENUITEMS = (('People','https://physics.nyu.edu/experimentalparticle/group.html'
 			('Media & Outreach','https://physics.nyu.edu/experimentalparticle/outreach.html'),
 			('Blog','https://physics.nyu.edu/experimentalparticle/category/blog.html'),)
 
+MENUITEMS = (('People',SITEURL+'/group.html'),
+			('Research',SITEURL+'/research.html'),
+			('Funding',SITEURL+'/funding.html'),
+			('Media & Outreach',SITEURL+'/outreach.html'),
+			('Blog',SITEURL+'/category/blog.html'),)
+
 # Blogroll
 LINKS =  (('NYU Physics','http://physics.as.nyu.edu/page/home'),
 		#('About the graduate program','http://physics.as.nyu.edu/page/graduate'),
@@ -50,6 +57,8 @@ LINKS =  (('NYU Physics','http://physics.as.nyu.edu/page/home'),
 		#('NYU group history', 'history.html'),
 		('RECAST','http://recast.perimeterinstitute.ca'),
 		('REANA', 'http://reanahub.io'),
+		('DIANA-HEP', 'http://diana-hep.org'),
+		('IRIS-HEP', 'http://iris-hep.org'),
 		('HiggsHunters', 'http://HiggsHunters.org')
 		)
 
@@ -61,6 +70,7 @@ SOCIAL = None
 #SOCIAL = None
 
 DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 6
 
 CC_LICENSE="CC-BY"
 

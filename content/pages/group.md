@@ -102,7 +102,35 @@ Peter Nemethy</a>,  Professor
   Publications: <a href="http://inspirehep.net/author/profile/J.Brehmer.1">INSPIRE</a> |
 <a href="https://scholar.google.com/citations?user=ZdUMvCsAAAAJ&hl=en&oi=ao">Google Scholar</a><br /> | <a href="https://orcid.org/0000-0003-3344-4209">ORCID : 0000-0003-3344-4209</a>  
 <br /> 
-Code: <a href="https://github.com/johannbrehmer">GitHub</a><br />
+<a href="https://github.com/johannbrehmer"><i class="fa fa-github-square fa-lg"></i> github</a>
+
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/alexander-held-2.jpeg" /></div>
+  <div class="col-md-8">Alexander Held, Research Scientist
+<br />
+  Interests: ATLAS & IRIS-HEP: Higgs Physics, Top Physics, Statistics, Analysis Software, Machine Learning. <br />
+  Publications: <a href="http://inspirehep.net/author/profile/Alexander.Held.1">INSPIRE</a> 
+<br />
+<a href="https://github.com/alexander-held"><i class="fa fa-github-square fa-lg"></i> github</a>
+
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Sebastian-Macaluso.jpg" /></div>
+  <div class="col-md-8">Sebastian Macaluso, Research Scientist
+<br />
+  Interests: IRIS-HEP: Machine Learning, Jet Physics. <br />
+  Publications: <a href="http://inspirehep.net/author/profile/S.Macaluso.1">INSPIRE</a> 
+</br />
+<a href="https://github.com/sebastianmacaluso"><i class="fa fa-github-square fa-lg"></i> github</a>
 
   </div>
 </div>
@@ -123,21 +151,30 @@ Code: <a href="https://github.com/johannbrehmer">GitHub</a><br />
 </div>
 
 
-<h2>Graduate Students</h2>
-
-
+- - - 
 
 <div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/lukas-new.jpg" /></div>
-  <div class="col-md-8">Lukas Heinrich
+  <div class="col-md-4"><img width="100%" src="./images/Leonora.jpg" /></div>
+  <div class="col-md-8">Leonora Vesterbacka, Research Scientist
 <br />
-  Interests: ATLAS, SUSY searches, Recast and analysis preservation, trigger and analysis software <br />
+  Interests: ATLAS: Physics Modelling, Machine Learning, Analysis Preservation. <br />
+  Publications: <a href="http://inspirehep.net/author/profile/M.L.Vesterbacka.Olsson.1">INSPIRE</a> |
+<a href="https://cdsweb.cern.ch/search?ln=en&p=Vesterbacka%2C+Leonora&action_search=Search&op1=a&m1=a&p1=&f1=&c=CERN+Document+Server&sf=&so=d&rm=&rg=10&sc=1&of=hb">CERN</a><br />
 <br />
-<a href="http://twitter.com/lukasheinrich_"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
+<a href="https://github.com/leonoravesterbacka"><i class="fa fa-github-square fa-lg"></i> github</a>
+
+
   </div>
 </div>
 
-- - - 
+
+
+
+
+
+<h2>Graduate Students</h2>
+
+
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/colleen.jpg" /></div>
@@ -154,8 +191,10 @@ Code: <a href="https://github.com/johannbrehmer">GitHub</a><br />
   <div class="col-md-4"><img width="100%" src="./images/Irina.jpeg" /></div>
   <div class="col-md-8">Irina Espejo Morales
 <br />
-    Interests: Data Science, Physics
+    Interests: Data Science, likelihood-free inference, reusable workflows, automated decision making
  <br />
+ <a href="https://github.com/irinaespejo"><i class="fa fa-github-square fa-lg"></i> github</a>
+
   </div>
 </div>
 
@@ -164,13 +203,28 @@ Code: <a href="https://github.com/johannbrehmer">GitHub</a><br />
 <h2>Former Graduate Students </h2>
 
 <div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/lukas-new.jpg" /></div>
+  <div class="col-md-8">Lukas Heinrich
+<br />
+  Interests: ATLAS, SUSY searches, Recast and analysis preservation, trigger and analysis software <br />
+<br />
+<a href="http://twitter.com/lukasheinrich_"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
+<br />
+Went on to: CERN Fellow
+  </div>
+</div>
+
+- - - 
+
+
+<div class="row">
   <div class="col-md-4"><img width="100%" src="./images/kohani.shahab.jpg" /></div>
   <div class="col-md-8">Shahab Kohani
 <br />
     Interests: tracking detectors.
  <br />
     Thesis: "3D Trench Detectors for Charged Particle Tracking and Photon Science Applications", 2018 
-< br />
+<br />
     Went on to: postdoc at the University of Hawaii  
 <br />   
   </div>
