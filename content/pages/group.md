@@ -187,6 +187,35 @@ Peter Nemethy</a>,  Professor
 
 - - - 
 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/drnevich.jpg" /></div>
+  <div class="col-md-8">Matthew Drnevich
+<br />
+    Interests: Physics, jet physics, machine learning
+ <br />
+ <a href="https://github.com/mdkdrnevich"><i class="fa fa-github-square fa-lg"></i> github</a>
+
+  </div>
+</div>
+
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/bhatti.jpg" /></div>
+  <div class="col-md-8">Zubair Bhatti
+<br />
+    Interests: Particle Physics, searches for new physics
+ <br />
+ <a href="https://github.com/zbhatti"><i class="fa fa-github-square fa-lg"></i> github</a>
+
+  </div>
+</div>
+
+<!--          -->
+<h2>Affiliated Graduate Students (non-ATLAS)</h2>
+
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/Irina.jpeg" /></div>
   <div class="col-md-8">Irina Espejo Morales
@@ -198,6 +227,35 @@ Peter Nemethy</a>,  Professor
   </div>
 </div>
 
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/mehta.png" /></div>
+  <div class="col-md-8">Swapneel Mehta
+<br />
+    Interests: Data Science, causal inference, probabilistic programming
+ <br />
+ <a href="https://github.com/SwapneelM"><i class="fa fa-github-square fa-lg"></i> github</a> <br />
+ <a href="https://swapneelm.github.io/">Personal Website</a>
+
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/albergo.png" /></div>
+  <div class="col-md-8">Michael Albergo
+<br />
+    Interests: lattice field theory, quantum information, machine learning, tensor netwoks
+ <br />
+ <a href="https://github.com/malbergo"><i class="fa fa-github-square fa-lg"></i> github</a> <br />
+<a href="https://twitter.com/msalbergo?lang=en"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
+ <a href="http://malbergo.me/">Personal Website</a> <br />
+  </div>
+</div>
+
+
 
 <!--          -->
 <h2>Former Graduate Students </h2>
@@ -208,7 +266,9 @@ Peter Nemethy</a>,  Professor
 <br />
   Interests: ATLAS, SUSY searches, Recast and analysis preservation, trigger and analysis software <br />
 <br />
-<a href="http://twitter.com/lukasheinrich_"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
+<a href="https://github.com/lukasheinrich"><i class="fa fa-github-square fa-lg"></i> github</a> <br />
+<a href="http://twitter.com/lukasheinrich_"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a><br />
+<a href="http://www.lukasheinrich.com/">Personal website</a>
 <br />
 Went on to: CERN Fellow
   </div>
