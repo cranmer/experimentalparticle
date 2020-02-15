@@ -247,7 +247,7 @@ Peter Nemethy</a>,  Professor
   <div class="col-md-4"><img width="100%" src="./images/albergo.png" /></div>
   <div class="col-md-8">Michael Albergo
 <br />
-    Interests: lattice field theory, quantum information, machine learning, tensor netwoks
+    Interests: lattice field theory, quantum information, machine learning, tensor networks
  <br />
  <a href="https://github.com/malbergo"><i class="fa fa-github-square fa-lg"></i> github</a> <br />
 <a href="https://twitter.com/msalbergo?lang=en"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
