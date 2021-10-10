@@ -81,7 +81,7 @@ Allen I. Mincer</a>,  Professor
 <h2>Research Scientists and Research Associates</h2>
 
 <div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/SmileyFace.jpg" /></div>
+  <div class="col-md-4"><img width="100%" src="./images/patrick-cropped.png" /></div>
   <div class="col-md-8">Patrick Rieck, Research Scientist
 <br />
   Interests: ATLAS, BSM Physics, RECAST, Data Science. <br />
