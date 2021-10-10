@@ -8,7 +8,7 @@ save_as: group.html
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/cranmer-bw.jpg" /></div>
-  <div class="col-md-8"><a href="http://physics.as.nyu.edu/object/KyleCranmer.html">Kyle Cranmer</a>,  Associate Professor 
+  <div class="col-md-8"><a href="http://physics.as.nyu.edu/object/KyleCranmer.html">Kyle Cranmer</a>,   Professor 
 <br />
   Interests: ATLAS, Higgs searches, statistical methods for particle physics, improved methods for publishing, data preservation, light gauge boson searches, MissingET triggers. <br />
   Publications: <a href="http://inspirehep.net/search?p=author%3AK.s.Cranmer.1+">INSPIRE</a> | 
@@ -29,7 +29,7 @@ save_as: group.html
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/med/haas_andy_med.jpg" /></div>
-  <div class="col-md-8"><a href="http://physics.as.nyu.edu/object/AndyHaas.html">Andy Haas</a>,  Assistant Professor 
+  <div class="col-md-8"><a href="http://physics.as.nyu.edu/object/AndyHaas.html">Andy Haas</a>,  Associate Professor 
 <br />
   Interests: ATLAS, SUSY / Exotic searches (lepton-jets, new long-lived particles, etc.), Simulation software, Data acquisition. <br />
   Papers: <a href="https://inspirehep.net/search?p=exactauthor%3AAndrew.C.Haas.1&sf=earliestdate">INSPIRE</a><br />
@@ -58,21 +58,7 @@ Allen I. Mincer</a>,  Professor
 </div>
 </div>
 
-- - - 
 
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/nemethy.jpg" /></div>
-  <div class="col-md-8"><a href="http://www.physics.as.nyu.edu/object/PeterNemethy.html">
-Peter Nemethy</a>,  Professor 
-<br />
-  Interests: ATLAS: Supersymmetry searches, MissingET triggers; MILAGRO. <br />
-  Publications: <a href="http://inspirehep.net/search?p=author%3AP.Nemethy.1">INSPIRE</a> | 
-<a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=nemethy&amp;sc=1">CERN</a><br />
-
-  Presentations: <a href="http://indicosearch.cern.ch/search?p=nemethy&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
-  
-</div>
-</div>
 
 - - - 
 <h2>Visiting Scholar</h2>
@@ -95,19 +81,31 @@ Peter Nemethy</a>,  Professor
 <h2>Research Scientists and Research Associates</h2>
 
 <div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/Johann.jpeg" /></div>
-  <div class="col-md-8">Johann Brehmer, Research Scientist
+  <div class="col-md-4"><img width="100%" src="./images/SmileyFace.jpg" /></div>
+  <div class="col-md-8">Patrick Rieck, Research Scientist
 <br />
-  Interests: Effective Field Theory, Likelihood-free Inference, Machine Learning <br />
-  Publications: <a href="http://inspirehep.net/author/profile/J.Brehmer.1">INSPIRE</a> |
-<a href="https://scholar.google.com/citations?user=ZdUMvCsAAAAJ&hl=en&oi=ao">Google Scholar</a><br /> | <a href="https://orcid.org/0000-0003-3344-4209">ORCID : 0000-0003-3344-4209</a>  
-<br /> 
-<a href="https://github.com/johannbrehmer"><i class="fa fa-github-square fa-lg"></i> github</a>
+  Interests: ATLAS, BSM Physics, RECAST, Data Science. <br />
+  Publications: <a href="http://inspirehep.net/author/profile/P.Rieck.1">INSPIRE</a> | <a href="https://orcid.org/0000-0003-0290-0566"> ORCID </a>
+<br />
 
   </div>
 </div>
 
 - - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/ablet.png" /></div>
+  <div class="col-md-8">Yiming (Ablet) Abulaiti, Research Scientist
+<br />
+  Interests: ATLAS, supersymmetric top quark searches (cMSSM and pMSSM models), new heavy resonance searches in the Exotics group, FELIX phase-1 upgrade, MissingET triggers (operations and phase-2 upgrades). Machine Learning for HEP. <br />
+  Publications: <a href="http://inspirehep.net/author/profile/Y.Abulaiti.1">INSPIRE</a>  | <a href="https://orcid.org/0000-0003-0403-3697"> ORCID </a>
+<br />
+
+  </div>
+</div>
+
+- - - 
+
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/alexander-held-2.jpeg" /></div>
@@ -137,35 +135,6 @@ Peter Nemethy</a>,  Professor
 
 - - - 
 
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/Manfredi.jpg" /></div>
-  <div class="col-md-8">Manfredi Ronzani, Research Scientist
-<br />
-  Interests: ATLAS: Supersymmetry, exotics, MET trigger. <br />
-  Publications: <a href="http://inspirehep.net/search?p=author%3AM.Ronzani.1">INSPIRE</a> |
-<a href="https://cdsweb.cern.ch/search?ln=en&p=ronzani%2C+manfredi&f=author&action_search=Search&c=CERN+Document+Server&sf=&so=d&rm=&rg=10&sc=1&of=hb">CERN</a><br />
-
-  Presentations: <a href="https://indico.cern.ch/search.py?categId=0&p=manfredi+ronzani&f=&collections=&startDate=&endDate=&sortField=&sortOrder=d">ATLAS</a> <br />
-
-  </div>
-</div>
-
-
-- - - 
-
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/Leonora.jpg" /></div>
-  <div class="col-md-8">Leonora Vesterbacka, Research Scientist
-<br />
-  Interests: ATLAS: Physics Modelling, Machine Learning, Analysis Preservation. <br />
-  Publications: <a href="http://inspirehep.net/author/profile/M.L.Vesterbacka.Olsson.1">INSPIRE</a> |
-<a href="https://cdsweb.cern.ch/search?ln=en&p=Vesterbacka%2C+Leonora&action_search=Search&op1=a&m1=a&p1=&f1=&c=CERN+Document+Server&sf=&so=d&rm=&rg=10&sc=1&of=hb">CERN</a><br />
-<br />
-<a href="https://github.com/leonoravesterbacka"><i class="fa fa-github-square fa-lg"></i> github</a>
-
-
-  </div>
-</div>
 
 
 
@@ -174,19 +143,18 @@ Peter Nemethy</a>,  Professor
 
 <h2>Graduate Students</h2>
 
-
-
 <div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/colleen.jpg" /></div>
-  <div class="col-md-8">Colleen Treado 
+  <div class="col-md-4"><img width="100%" src="./images/bhatti.jpg" /></div>
+  <div class="col-md-8">Zubair Bhatti
 <br />
-    Interests: SUSY Searches
+    Interests: Particle Physics, searches for new physics, RECAST
  <br />
+ <a href="https://github.com/zbhatti"><i class="fa fa-github-square fa-lg"></i> github</a>
+
   </div>
 </div>
 
 - - - 
-
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/drnevich.jpg" /></div>
@@ -202,19 +170,67 @@ Peter Nemethy</a>,  Professor
 
 - - - 
 
+
+
 <div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/bhatti.jpg" /></div>
-  <div class="col-md-8">Zubair Bhatti
+  <div class="col-md-4"><img width="100%" src="./images/Mukesh-Ghimire.png" /></div>
+  <div class="col-md-8">Mukesh Ghimire
 <br />
-    Interests: Particle Physics, searches for new physics
+    Interests: MilliQan
  <br />
- <a href="https://github.com/zbhatti"><i class="fa fa-github-square fa-lg"></i> github</a>
+  </div>
+</div>
+
+- - - 
+
+
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Edison-Weik.png" /></div>
+  <div class="col-md-8">Edison Weik
+<br />
+    Interests: Particle Physics, searches for new physics, machine learning
+ <br />
+ <a href="https://github.com/eweik"><i class="fa fa-github-square fa-lg"></i> github</a>
 
   </div>
 </div>
 
 <!--          -->
+<h2>Affiliated Postdocs</h2>
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Taoli-Cheng.png" /></div>
+  <div class="col-md-8">Taoli Cheng 
+<br />
+   Postdoc at <a href="https://mila.quebec/en/person/taoli-cheng/">MILA</a> with Aaron Courville co-advised by Kyle Cranmer and ATLAS Analysis Consultant Expert (ACE)
+<br />
+    Interests: Particle Physics, jet physics, searches for new physics, machine learning
+ <br />
+ <a href="https://github.com/taolicheng"><i class="fa fa-github-square fa-lg"></i> github</a>
+ <a href="https://taolicheng.github.io/#"> Personal Website </a>
+
+  </div>
+</div>
+
+
+<!--          -->
 <h2>Affiliated Graduate Students (non-ATLAS)</h2>
+
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/albergo.png" /></div>
+  <div class="col-md-8">Michael Albergo
+<br />
+    Interests: lattice field theory, quantum information, machine learning, tensor networks
+ <br />
+ <a href="https://github.com/malbergo"><i class="fa fa-github-square fa-lg"></i> github</a> <br />
+<a href="https://twitter.com/msalbergo?lang=en"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
+ <a href="http://malbergo.me/">Personal Website</a> <br />
+  </div>
+</div>
+
+- - - 
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/Irina.jpeg" /></div>
@@ -244,21 +260,37 @@ Peter Nemethy</a>,  Professor
 - - - 
 
 <div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/albergo.png" /></div>
-  <div class="col-md-8">Michael Albergo
+  <div class="col-md-4"><img width="100%" src="./images/Lily-Zhang.png" /></div>
+  <div class="col-md-8">Lily Zhang
 <br />
-    Interests: lattice field theory, quantum information, machine learning, tensor networks
+    Interests: Data Science, statistical inference, machine learning for health care and science
  <br />
- <a href="https://github.com/malbergo"><i class="fa fa-github-square fa-lg"></i> github</a> <br />
-<a href="https://twitter.com/msalbergo?lang=en"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
- <a href="http://malbergo.me/">Personal Website</a> <br />
+ <a href="https://medium.com/@NYUDataScience/deepmind-fellow-profile-lily-zhang-8671b9b36812">Article</a>
+
   </div>
 </div>
 
 
 
+
+
 <!--          -->
 <h2>Former Graduate Students </h2>
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/colleen.jpg" /></div>
+  <div class="col-md-8">Colleen Treado 
+<br />
+    Interests: SUSY Searches (emerging jets) <br />
+    Thesis: "A Search for Emerging Jets at 13 TeV at ATLAS Run 2"
+ <br />
+ <a href="https://www.linkedin.com/in/ctreado/">LinkedIn</a>
+Went on to:  Researcher and Analyst | Problem Solver
+  </div>
+</div>
+
+- - - 
+
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/lukas-new.jpg" /></div>
@@ -328,7 +360,7 @@ Went on to: CERN Fellow
 Thesis: "Higgs Boson Discovery and First Property Measurements with the H -> ZZ -> 4l
  Channel and the Combination", 2014
 <br />
-Went on to: data scientist at Wild Card
+Went on to: data scientist at Wild Card, then Sidewalk Labs, then postdoc at EPFL, now Facebook Reality Labs
 <br />
 <a href="http://twitter.com/svenkreiss"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
 </div>
@@ -344,7 +376,7 @@ James Beacham</a>
   Interests: ATLAS: Higgs-related searches, APEX: light gauge boson searches, archival ALEPH analyses
 <br />
 <a href="http://physics.nyu.edu/~jbb334/">personal page</a><br />
-Went on to: post doc in ATLAS group at The Ohio State University 
+Went on to: post doc in ATLAS group at The Ohio State University, then Duke
 <br />
 <a href="http://twitter.com/jbbeacham"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
 <br />
@@ -377,7 +409,7 @@ Thesis: "Lepton Jets in the ATLAS Experiment", 2014.
   <div class="col-md-8">George Herbert Lewis
 <br />
   Interests: ATLAS, Higgs searches, top physics. <br />
-Went on to: data scientist at <a href="http://www.lenduploans.com">LendUp</a>
+Went on to: data scientist at <a href="http://www.lenduploans.com">LendUp</a>, then Google
 <br />
 <a href="http://twitter.com/HerbieLewis"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
 <br />
@@ -451,6 +483,60 @@ Icahn School of Medicine, Mount Sinai
 
 <!--          -->
 <h2>Former Research Scientists and Research Associates </h2>
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Johann.jpeg" /></div>
+  <div class="col-md-8">Johann Brehmer, Research Scientist
+<br />
+  Interests: Effective Field Theory, Likelihood-free Inference, Machine Learning <br />
+  Publications: <a href="http://inspirehep.net/author/profile/J.Brehmer.1">INSPIRE</a> |
+<a href="https://scholar.google.com/citations?user=ZdUMvCsAAAAJ&hl=en&oi=ao">Google Scholar</a><br /> | <a href="https://orcid.org/0000-0003-3344-4209">ORCID : 0000-0003-3344-4209</a>  
+<br />
+<a href="https://johannbrehmer.github.io"> personal website</a> | 
+<a href="https://github.com/johannbrehmer"><i class="fa fa-github-square fa-lg"></i> github</a>
+<br />
+Went on to: Research Scientist at Qualcomm AI Research
+
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Manfredi.jpg" /></div>
+  <div class="col-md-8">Manfredi Ronzani, Research Scientist
+<br />
+  Interests: ATLAS: Supersymmetry, exotics, MET trigger. <br />
+  Publications: <a href="http://inspirehep.net/search?p=author%3AM.Ronzani.1">INSPIRE</a> |
+<a href="https://cdsweb.cern.ch/search?ln=en&p=ronzani%2C+manfredi&f=author&action_search=Search&c=CERN+Document+Server&sf=&so=d&rm=&rg=10&sc=1&of=hb">CERN</a><br />
+
+  Presentations: <a href="https://indico.cern.ch/search.py?categId=0&p=manfredi+ronzani&f=&collections=&startDate=&endDate=&sortField=&sortOrder=d">ATLAS</a> <br />
+  <a href="https://www.linkedin.com/in/manfredi-ronzani/?trk=public_profile_browsemap_profile-result-card_result-card_full-click&originalSubdomain=it">LinkedIn</a>
+  <br />
+  Went on to: Data Analytics and Quality Specialist | Data Scientist at Sisal Group
+
+  </div>
+</div>
+
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Leonora.jpg" /></div>
+  <div class="col-md-8">Leonora Vesterbacka, Research Scientist
+<br />
+  Interests: ATLAS: Physics Modelling, Machine Learning, Analysis Preservation. <br />
+  Publications: <a href="http://inspirehep.net/author/profile/M.L.Vesterbacka.Olsson.1">INSPIRE</a> |
+<a href="https://cdsweb.cern.ch/search?ln=en&p=Vesterbacka%2C+Leonora&action_search=Search&op1=a&m1=a&p1=&f1=&c=CERN+Document+Server&sf=&so=d&rm=&rg=10&sc=1&of=hb">CERN</a><br />
+<br />
+<a href="https://github.com/leonoravesterbacka"><i class="fa fa-github-square fa-lg"></i> github</a>
+| <a href="https://www.linkedin.com/in/leonora-vesterbacka/?originalSubdomain=se">LinkedIn</a>
+<br />
+Went on to: Data Scientist at Vinnova
+
+  </div>
+</div>
+
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/Chris.jpg" /></div>
@@ -582,6 +668,21 @@ Diego Casadei </a>, Research Scientist
 
 
 <h2>Emeritus Faculty</h2>
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/nemethy.jpg" /></div>
+  <div class="col-md-8"><a href="http://www.physics.as.nyu.edu/object/PeterNemethy.html">
+Peter Nemethy</a>,  Emeritus Professor 
+<br />
+  Interests: ATLAS: Supersymmetry searches, MissingET triggers; MILAGRO. <br />
+  Publications: <a href="http://inspirehep.net/search?p=author%3AP.Nemethy.1">INSPIRE</a> | 
+<a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=nemethy&amp;sc=1">CERN</a><br />
+
+  Presentations: <a href="http://indicosearch.cern.ch/search?p=nemethy&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a>
+  
+</div>
+</div>
+
+- - -
 
 <div class="row">
   <div class="col-md-4"></div>

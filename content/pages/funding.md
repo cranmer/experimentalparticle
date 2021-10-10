@@ -12,8 +12,10 @@ The NYU experimental particle physics group is supported in part by a grant from
 </p>
 <br clear="all"> 
 
+* [PHY-2141336](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141336&HistoricalAwards=false) 9/1/21 - 8/31/23 "EAGER: ADAPT: AI-Enhanced Sampling for Lattice Field Theory and Beyond" (Cranmer)
+* [PHY-2111244](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2111244&HistoricalAwards=false) 7/15/21 - 6/30/24 "NSF-BSF: Elementary Particle Physics with ATLAS" (Cranmer, Haas, Mincer)
 * [PHY-1806738](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1806738&HistoricalAwards=false) 9/1/18 - 8/31/21 "NSF-BSF: Elementary Particle Physics with ATLAS" (Cranmer, Haas, Mincer)
-* [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650) 9/1/18 - 8/31/23 "S2I2: Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)" (Subawrd to Cranmer)
+* [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650) 9/1/18 - 8/31/23 "S2I2: Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)" (Subaward to Cranmer)
 * [OAC-1841471](https://nsf.gov/awardsearch/showAward?AWD_ID=1841471&HistoricalAwards=false) 10/1/18 - 9/30/20 "Collaborative Research: Scalable CyberInfrastructure for Artificial Intelligence and Likelihood Free Inference (SCAILFIN)" (Cranmer)
 * PHY-1505463 9/1/15 - 8/31/18 "Elementary Particle Physics with ATLAS" (Cranmer, Haas, Mincer, Nemethy)
 * [ACI-1450310](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1450310) 5/1/2015 - 4/30/2019 "Collaborative Research: SI2-SSI: Data-Intensive Analysis for High Energy Physics (DIANA/HEP)" (Cranmer)
