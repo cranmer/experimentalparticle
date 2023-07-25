@@ -80,7 +80,7 @@ CC_LICENSE="CC-BY"
 
 ####################################################
 # Additions 
-EXTRA_HEADER = open('twitter_card.html').read().decode('utf-8')
+EXTRA_HEADER = open('twitter_card.html').read()#.decode('utf-8')
 
 
 STATIC_PATHS = ['images', 'images/med', 'downloads', 'downloads/notebooks',

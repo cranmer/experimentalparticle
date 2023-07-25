@@ -6,26 +6,6 @@ save_as: group.html
 
 <h2>Faculty</h2>
 
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/cranmer-bw.jpg" /></div>
-  <div class="col-md-8"><a href="http://physics.as.nyu.edu/object/KyleCranmer.html">Kyle Cranmer</a>,   Professor 
-<br />
-  Interests: ATLAS, Higgs searches, statistical methods for particle physics, improved methods for publishing, data preservation, light gauge boson searches, MissingET triggers. <br />
-  Publications: <a href="http://inspirehep.net/search?p=author%3AK.s.Cranmer.1+">INSPIRE</a> | 
-<a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=cranmer&amp;sc=1">CERN</a><br />
-
-  Presentations: <a href="http://indicosearch.cern.ch/search?p=cranmer&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a> <br />
-<a href="https://en.wikipedia.org/wiki/Kyle_Cranmer">Wikipedia</a> <br />
-<a href="https://impactstory.org/u/0000-0002-5769-7094">ImpactStory</a> <br />
-<a href="http://orcid.org/0000-0002-5769-7094">ORCID : 0000-0002-5769-7094</a> <br />
-<a href="http://theoryandpractice.org">Personal homepage</a> <br />
-<a href="http://twitter.com/kylecranmer"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
-<a href="http://github.com/cranmer"><i class="fa fa-github-square fa-lg"></i> github</a>
-
-</div>
-</div>
-
-- - - 
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/med/haas_andy_med.jpg" /></div>
@@ -107,33 +87,6 @@ Allen I. Mincer</a>,  Professor
 - - - 
 
 
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/alexander-held-2.jpeg" /></div>
-  <div class="col-md-8">Alexander Held, Research Scientist
-<br />
-  Interests: ATLAS & IRIS-HEP: Higgs Physics, Top Physics, Statistics, Analysis Software, Machine Learning. <br />
-  Publications: <a href="http://inspirehep.net/author/profile/Alexander.Held.1">INSPIRE</a> 
-<br />
-<a href="https://github.com/alexander-held"><i class="fa fa-github-square fa-lg"></i> github</a>
-
-  </div>
-</div>
-
-- - - 
-
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/Sebastian-Macaluso.jpg" /></div>
-  <div class="col-md-8">Sebastian Macaluso, Research Scientist
-<br />
-  Interests: IRIS-HEP: Machine Learning, Jet Physics. <br />
-  Publications: <a href="http://inspirehep.net/author/profile/S.Macaluso.1">INSPIRE</a> 
-</br />
-<a href="https://github.com/sebastianmacaluso"><i class="fa fa-github-square fa-lg"></i> github</a>
-
-  </div>
-</div>
-
-- - - 
 
 
 
@@ -172,17 +125,6 @@ Allen I. Mincer</a>,  Professor
 
 
 
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/Mukesh-Ghimire.png" /></div>
-  <div class="col-md-8">Mukesh Ghimire
-<br />
-    Interests: MilliQan
- <br />
-  </div>
-</div>
-
-- - - 
-
 
 
 <div class="row">
@@ -196,79 +138,6 @@ Allen I. Mincer</a>,  Professor
   </div>
 </div>
 
-<!--          -->
-<h2>Affiliated Postdocs</h2>
-
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/Taoli-Cheng.png" /></div>
-  <div class="col-md-8">Taoli Cheng 
-<br />
-   Postdoc at <a href="https://mila.quebec/en/person/taoli-cheng/">MILA</a> with Aaron Courville co-advised by Kyle Cranmer and ATLAS Analysis Consultant Expert (ACE)
-<br />
-    Interests: Particle Physics, jet physics, searches for new physics, machine learning
- <br />
- <a href="https://github.com/taolicheng"><i class="fa fa-github-square fa-lg"></i> github</a>
- <a href="https://taolicheng.github.io/#"> Personal Website </a>
-
-  </div>
-</div>
-
-
-<!--          -->
-<h2>Affiliated Graduate Students (non-ATLAS)</h2>
-
-
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/albergo.png" /></div>
-  <div class="col-md-8">Michael Albergo
-<br />
-    Interests: lattice field theory, quantum information, machine learning, tensor networks
- <br />
- <a href="https://github.com/malbergo"><i class="fa fa-github-square fa-lg"></i> github</a> <br />
-<a href="https://twitter.com/msalbergo?lang=en"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
- <a href="http://malbergo.me/">Personal Website</a> <br />
-  </div>
-</div>
-
-- - - 
-
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/Irina.jpeg" /></div>
-  <div class="col-md-8">Irina Espejo Morales
-<br />
-    Interests: Data Science, likelihood-free inference, reusable workflows, automated decision making
- <br />
- <a href="https://github.com/irinaespejo"><i class="fa fa-github-square fa-lg"></i> github</a>
-
-  </div>
-</div>
-
-- - - 
-
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/mehta.png" /></div>
-  <div class="col-md-8">Swapneel Mehta
-<br />
-    Interests: Data Science, causal inference, probabilistic programming
- <br />
- <a href="https://github.com/SwapneelM"><i class="fa fa-github-square fa-lg"></i> github</a> <br />
- <a href="https://swapneelm.github.io/">Personal Website</a>
-
-  </div>
-</div>
-
-- - - 
-
-<div class="row">
-  <div class="col-md-4"><img width="100%" src="./images/Lily-Zhang.png" /></div>
-  <div class="col-md-8">Lily Zhang
-<br />
-    Interests: Data Science, statistical inference, machine learning for health care and science
- <br />
- <a href="https://medium.com/@NYUDataScience/deepmind-fellow-profile-lily-zhang-8671b9b36812">Article</a>
-
-  </div>
-</div>
 
 
 
@@ -276,6 +145,18 @@ Allen I. Mincer</a>,  Professor
 
 <!--          -->
 <h2>Former Graduate Students </h2>
+
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Mukesh-Ghimire.png" /></div>
+  <div class="col-md-8">Mukesh Ghimire
+<br />
+    Interests: MilliQan
+ <br />
+  </div>
+</div>
+
+- - - 
 
 <div class="row">
   <div class="col-md-4"><img width="100%" src="./images/colleen.jpg" /></div>
@@ -485,6 +366,34 @@ Icahn School of Medicine, Mount Sinai
 <h2>Former Research Scientists and Research Associates </h2>
 
 <div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/alexander-held-2.jpeg" /></div>
+  <div class="col-md-8">Alexander Held, Research Scientist
+<br />
+  Interests: ATLAS & IRIS-HEP: Higgs Physics, Top Physics, Statistics, Analysis Software, Machine Learning. <br />
+  Publications: <a href="http://inspirehep.net/author/profile/Alexander.Held.1">INSPIRE</a> 
+<br />
+<a href="https://github.com/alexander-held"><i class="fa fa-github-square fa-lg"></i> github</a>
+
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Sebastian-Macaluso.jpg" /></div>
+  <div class="col-md-8">Sebastian Macaluso, Research Scientist
+<br />
+  Interests: IRIS-HEP: Machine Learning, Jet Physics. <br />
+  Publications: <a href="http://inspirehep.net/author/profile/S.Macaluso.1">INSPIRE</a> 
+</br />
+<a href="https://github.com/sebastianmacaluso"><i class="fa fa-github-square fa-lg"></i> github</a>
+
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
   <div class="col-md-4"><img width="100%" src="./images/Johann.jpeg" /></div>
   <div class="col-md-8">Johann Brehmer, Research Scientist
 <br />
@@ -663,9 +572,8 @@ Diego Casadei </a>, Research Scientist
   </div>
 </div>
 
+
 - - - 
-
-
 
 <h2>Emeritus Faculty</h2>
 <div class="row">
@@ -683,6 +591,106 @@ Peter Nemethy</a>,  Emeritus Professor
 </div>
 
 - - -
+
+
+<h2>Former Faculty</h2>
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/cranmer-bw.jpg" /></div>
+  <div class="col-md-8"><a href="http://physics.as.nyu.edu/object/KyleCranmer.html">Kyle Cranmer</a>,   Professor UW-Madison
+<br />
+  Interests: ATLAS, Higgs searches, statistical methods for particle physics, improved methods for publishing, data preservation, light gauge boson searches, MissingET triggers. <br />
+  Publications: <a href="http://inspirehep.net/search?p=author%3AK.s.Cranmer.1+">INSPIRE</a> | 
+<a href="http://cdsweb.cern.ch/search?cc=CERN+Experiments&amp;c=CERN+Experiments&amp;c=&amp;f=author&amp;p=cranmer&amp;sc=1">CERN</a><br />
+
+  Presentations: <a href="http://indicosearch.cern.ch/search?p=cranmer&f=&action_search=Search&c=&sf=&so=d&rm=&rg=25&sc=1&of=hb">ATLAS</a> <br />
+<a href="https://en.wikipedia.org/wiki/Kyle_Cranmer">Wikipedia</a> <br />
+<a href="https://impactstory.org/u/0000-0002-5769-7094">ImpactStory</a> <br />
+<a href="http://orcid.org/0000-0002-5769-7094">ORCID : 0000-0002-5769-7094</a> <br />
+<a href="http://theoryandpractice.org">Personal homepage</a> <br />
+<a href="http://twitter.com/kylecranmer"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
+<a href="http://github.com/cranmer"><i class="fa fa-github-square fa-lg"></i> github</a>
+
+</div>
+</div>
+
+- - -
+
+<h2>Former Affiliated Graduate Students and Postdocs</h2>
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Taoli-Cheng.png" /></div>
+  <div class="col-md-8">Taoli Cheng 
+<br />
+   Postdoc at <a href="https://mila.quebec/en/person/taoli-cheng/">MILA</a> with Aaron Courville co-advised by Kyle Cranmer and ATLAS Analysis Consultant Expert (ACE)
+<br />
+    Interests: Particle Physics, jet physics, searches for new physics, machine learning
+ <br />
+ <a href="https://github.com/taolicheng"><i class="fa fa-github-square fa-lg"></i> github</a>
+ <a href="https://taolicheng.github.io/#"> Personal Website </a>
+
+  </div>
+</div>
+
+
+<!--          -->
+<h2>Former Affiliated Graduate Students (non-ATLAS)</h2>
+
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/albergo.png" /></div>
+  <div class="col-md-8">Michael Albergo
+<br />
+    Interests: lattice field theory, quantum information, machine learning, tensor networks
+ <br />
+ <a href="https://github.com/malbergo"><i class="fa fa-github-square fa-lg"></i> github</a> <br />
+<a href="https://twitter.com/msalbergo?lang=en"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a>
+ <a href="http://malbergo.me/">Personal Website</a> <br />
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Irina.jpeg" /></div>
+  <div class="col-md-8">Irina Espejo Morales
+<br />
+    Interests: Data Science, likelihood-free inference, reusable workflows, automated decision making
+ <br />
+ <a href="https://github.com/irinaespejo"><i class="fa fa-github-square fa-lg"></i> github</a>
+
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/mehta.png" /></div>
+  <div class="col-md-8">Swapneel Mehta
+<br />
+    Interests: Data Science, causal inference, probabilistic programming
+ <br />
+ <a href="https://github.com/SwapneelM"><i class="fa fa-github-square fa-lg"></i> github</a> <br />
+ <a href="https://swapneelm.github.io/">Personal Website</a>
+
+  </div>
+</div>
+
+- - - 
+
+<div class="row">
+  <div class="col-md-4"><img width="100%" src="./images/Lily-Zhang.png" /></div>
+  <div class="col-md-8">Lily Zhang
+<br />
+    Interests: Data Science, statistical inference, machine learning for health care and science
+ <br />
+ <a href="https://medium.com/@NYUDataScience/deepmind-fellow-profile-lily-zhang-8671b9b36812">Article</a>
+
+  </div>
+</div>
+
+- - -
+
 
 <div class="row">
   <div class="col-md-4"></div>
